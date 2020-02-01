@@ -14,6 +14,7 @@ class SimpleApiConsumer {
     protected $printer;
     protected $url;
 
+    /* function __construct(ParserStrategy $parser, PrinterStrategy $printer, string $url) { */ //Why not, PHP?
     function __construct($parser, $printer, $url) {
         $this->parser = $parser;
         $this->printer = $printer;
@@ -35,7 +36,8 @@ class SimpleApiConsumer {
         }
     }
 
-    public changeStrategies($new_parser, $new_printer) {
+    /* public function changeStrategies(ParserStrategy $new_parser, PrinterStrategy $new_printer) { */ //Why not, PHP?
+    public function changeStrategies($new_parser, $new_printer) {
         $this->parser = $new_parser;
         $this->printer = $new_printer;
     }
@@ -70,17 +72,17 @@ class XmlParserStrategy implements ParserStrategy {
 }
 
 
-interface Printer {
+interface PrinterStrategy {
     public function  print($input);
 }
 
-class PrintToScreen {
+class ScreenPrinterStrategy {
     public function  print($input) {
         print_r($input);
     }
 }
 
-class PrintToFile {
+class FilePrinterStrategy {
     private $_path;
 
     function __construct($path) {
@@ -101,7 +103,7 @@ class PrintToFile {
 
 $json_to_screen = new SimpleApiConsumer(
                                 new JsonParserStrategy(),
-                                new PrintToScreen(),
+                                new ScreenPrinterStrategy(),
                                 'https://trpg.ga/api/bestiario/index.php'
                             );
 
@@ -111,7 +113,7 @@ $json_to_screen->execute();
 
 $json_to_file = new SimpleApiConsumer(
                                 new JsonParserStrategy(),
-                                new PrintToFile('./json_to_file.log'),
+                                new FilePrinterStrategy('./json_to_file.log'),
                                 'https://trpg.ga/api/bestiario/index.php'
                             );
 
@@ -122,7 +124,7 @@ $json_to_file->execute();
 
 $json_to_file = new SimpleApiConsumer(
                                 new XmlParserStrategy(),
-                                new PrintToFile('./xml_to_file.log'),
+                                new FilePrinterStrategy('./xml_to_file.log'),
                                 'http://www.deviante.com.br/podcasts/sociedade-brasileira-de-nefrologia/feed/'
                             );
 
