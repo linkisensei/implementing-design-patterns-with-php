@@ -1,0 +1,7941 @@
+Array
+(
+    [0] => stdClass Object
+        (
+            [nome] => Bugbear (goblinoide)
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:77
+        )
+
+    [1] => stdClass Object
+        (
+            [nome] => Cão de Guarda
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:18
+        )
+
+    [2] => stdClass Object
+        (
+            [nome] => Carniçal
+            [nd] => 1
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:19
+        )
+
+    [3] => stdClass Object
+        (
+            [nome] => Cavalo de Montaria
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:21
+        )
+
+    [4] => stdClass Object
+        (
+            [nome] => Centauro Comum
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:22
+        )
+
+    [5] => stdClass Object
+        (
+            [nome] => Elemental do Ar Pequeno
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:51
+        )
+
+    [6] => stdClass Object
+        (
+            [nome] => Elemental do Fogo Pequeno
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:52
+        )
+
+    [7] => stdClass Object
+        (
+            [nome] => Elemental da Luz Pequeno
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:53
+        )
+
+    [8] => stdClass Object
+        (
+            [nome] => Golfinho
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:79
+        )
+
+    [9] => stdClass Object
+        (
+            [nome] => Lobo
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:95
+        )
+
+    [10] => stdClass Object
+        (
+            [nome] => Nagah
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:100
+        )
+
+    [11] => stdClass Object
+        (
+            [nome] => Objeto Animado Pequeno
+            [nd] => 1
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:103
+        )
+
+    [12] => stdClass Object
+        (
+            [nome] => Pônei de Guerra
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:106
+        )
+
+    [13] => stdClass Object
+        (
+            [nome] => Lacedon
+            [nd] => 1
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:3
+        )
+
+    [14] => stdClass Object
+        (
+            [nome] => Aranha Gigante
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:16
+        )
+
+    [15] => stdClass Object
+        (
+            [nome] => Cavalo de Guerra
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:21
+        )
+
+    [16] => stdClass Object
+        (
+            [nome] => Crocodilo
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:28
+        )
+
+    [17] => stdClass Object
+        (
+            [nome] => Diabrete (diabo)
+            [nd] => 2
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:34
+        )
+
+    [18] => stdClass Object
+        (
+            [nome] => Dragão Branco Filhote
+            [nd] => 2
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:39
+        )
+
+    [19] => stdClass Object
+        (
+            [nome] => Ogro Esqueleto
+            [nd] => 2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:59
+        )
+
+    [20] => stdClass Object
+        (
+            [nome] => Jiboia (cobra)
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:25
+        )
+
+    [21] => stdClass Object
+        (
+            [nome] => Kobold Chefe
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:85
+        )
+
+    [22] => stdClass Object
+        (
+            [nome] => Naja (cobra)
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:25
+        )
+
+    [23] => stdClass Object
+        (
+            [nome] => Objeto Animado Médio
+            [nd] => 2
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:103
+        )
+
+    [24] => stdClass Object
+        (
+            [nome] => Ogro
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:104
+        )
+
+    [25] => stdClass Object
+        (
+            [nome] => Orc Negro
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:105
+        )
+
+    [26] => stdClass Object
+        (
+            [nome] => Sátiro (fada)
+            [nd] => 2
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:61
+        )
+
+    [27] => stdClass Object
+        (
+            [nome] => Trobo
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:113
+        )
+
+    [28] => stdClass Object
+        (
+            [nome] => Troglodita Saqueador
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:116
+        )
+
+    [29] => stdClass Object
+        (
+            [nome] => Cão do Inferno
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:19
+        )
+
+    [30] => stdClass Object
+        (
+            [nome] => Dragão Azul Filhote
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:38
+        )
+
+    [31] => stdClass Object
+        (
+            [nome] => Dragão Marinho Filhote
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:41
+        )
+
+    [32] => stdClass Object
+        (
+            [nome] => Dragão Negro Filhote
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:43
+        )
+
+    [33] => stdClass Object
+        (
+            [nome] => Dragão Verde Filhote
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:45
+        )
+
+    [34] => stdClass Object
+        (
+            [nome] => Elemental da Água Médio
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:50
+        )
+
+    [35] => stdClass Object
+        (
+            [nome] => Elemental da Terra Médio
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:54
+        )
+
+    [36] => stdClass Object
+        (
+            [nome] => Leão
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:87
+        )
+
+    [37] => stdClass Object
+        (
+            [nome] => Lívido (carniçal)
+            [nd] => 3
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:20
+        )
+
+    [38] => stdClass Object
+        (
+            [nome] => Lobo-das-Cavernas
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:95
+        )
+
+    [39] => stdClass Object
+        (
+            [nome] => Monstro da Ferrugem
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:97
+        )
+
+    [40] => stdClass Object
+        (
+            [nome] => Objeto Animado Grande
+            [nd] => 3
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:103
+        )
+
+    [41] => stdClass Object
+        (
+            [nome] => Orc Xamã
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:105
+        )
+
+    [42] => stdClass Object
+        (
+            [nome] => Selako
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:108
+        )
+
+    [43] => stdClass Object
+        (
+            [nome] => Soldado Mecânico
+            [nd] => 3
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:108
+        )
+
+    [44] => stdClass Object
+        (
+            [nome] => Sombra
+            [nd] => 3
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:109
+        )
+
+    [45] => stdClass Object
+        (
+            [nome] => Warg
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Bestiário 1, pg:125
+        )
+
+    [46] => stdClass Object
+        (
+            [nome] => Garanhão de Namalkah
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:21
+        )
+
+    [47] => stdClass Object
+        (
+            [nome] => Wyvern Esqueleto
+            [nd] => 3
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:59
+        )
+
+    [48] => stdClass Object
+        (
+            [nome] => Canceronte
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:17
+        )
+
+    [49] => stdClass Object
+        (
+            [nome] => Carvarel (demônio)
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:29
+        )
+
+    [50] => stdClass Object
+        (
+            [nome] => Dragão Vermelho Filhote
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:47
+        )
+
+    [51] => stdClass Object
+        (
+            [nome] => Dríade (fada)
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:62
+        )
+
+    [52] => stdClass Object
+        (
+            [nome] => Duplo
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:48
+        )
+
+    [53] => stdClass Object
+        (
+            [nome] => Elemental das Trevas Médio
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:55
+        )
+
+    [54] => stdClass Object
+        (
+            [nome] => Gárgula
+            [nd] => 4
+            [tipo] => Construto
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:64
+        )
+
+    [55] => stdClass Object
+        (
+            [nome] => Grifo
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:80
+        )
+
+    [56] => stdClass Object
+        (
+            [nome] => Otyugh
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:106
+        )
+
+    [57] => stdClass Object
+        (
+            [nome] => Uktril (lefeu)
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:88
+        )
+
+    [58] => stdClass Object
+        (
+            [nome] => Unicórnio
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:117
+        )
+
+    [59] => stdClass Object
+        (
+            [nome] => Urso
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:118
+        )
+
+    [60] => stdClass Object
+        (
+            [nome] => Urso-das-Cavernas Esqueleto
+            [nd] => 4
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:59
+        )
+
+    [61] => stdClass Object
+        (
+            [nome] => Aparição
+            [nd] => 5
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:15
+        )
+
+    [62] => stdClass Object
+        (
+            [nome] => Basilisco
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:17
+        )
+
+    [63] => stdClass Object
+        (
+            [nome] => Centauro Xamã
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:22
+        )
+
+    [64] => stdClass Object
+        (
+            [nome] => Cobra-Rei (cobra)
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:26
+        )
+
+    [65] => stdClass Object
+        (
+            [nome] => Corcel das Trevas
+            [nd] => 5
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:26
+        )
+
+    [66] => stdClass Object
+        (
+            [nome] => Gnoll Líder de Alcateia
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:75
+        )
+
+    [67] => stdClass Object
+        (
+            [nome] => Limo Sangrento
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:95
+        )
+
+    [68] => stdClass Object
+        (
+            [nome] => Múmia
+            [nd] => 5
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:98
+        )
+
+    [69] => stdClass Object
+        (
+            [nome] => Nagah Guardião
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:100
+        )
+
+    [70] => stdClass Object
+        (
+            [nome] => Objeto Animado Enorme
+            [nd] => 5
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:103
+        )
+
+    [71] => stdClass Object
+        (
+            [nome] => Ogro Capanga
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:104
+        )
+
+    [72] => stdClass Object
+        (
+            [nome] => Orc Chefe
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:105
+        )
+
+    [73] => stdClass Object
+        (
+            [nome] => Sucuri (cobra)
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:26
+        )
+
+    [74] => stdClass Object
+        (
+            [nome] => Tigre-de-Hyninn
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:112
+        )
+
+    [75] => stdClass Object
+        (
+            [nome] => Troll
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:116
+        )
+
+    [76] => stdClass Object
+        (
+            [nome] => Urso-Coruja
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:118
+        )
+
+    [77] => stdClass Object
+        (
+            [nome] => Grifo Zumbi
+            [nd] => 5
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:126
+        )
+
+    [78] => stdClass Object
+        (
+            [nome] => Urso-das-cavernas
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:118
+        )
+
+    [79] => stdClass Object
+        (
+            [nome] => Gênio do Ar
+            [nd] => 5
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:66
+        )
+
+    [80] => stdClass Object
+        (
+            [nome] => Gênios da Terra
+            [nd] => 5
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:67
+        )
+
+    [81] => stdClass Object
+        (
+            [nome] => Gênios das Trevas
+            [nd] => 5
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:68
+        )
+
+    [82] => stdClass Object
+        (
+            [nome] => Lobo-das-Cavernas Vampiro
+            [nd] => 5
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:120
+        )
+
+    [83] => stdClass Object
+        (
+            [nome] => Wyvern
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:125
+        )
+
+    [84] => stdClass Object
+        (
+            [nome] => Ameba Gigante
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:14
+        )
+
+    [85] => stdClass Object
+        (
+            [nome] => Aucharai (demônio)
+            [nd] => 6
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:30
+        )
+
+    [86] => stdClass Object
+        (
+            [nome] => Carrasco de Lena
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:20
+        )
+
+    [87] => stdClass Object
+        (
+            [nome] => Geraktril (lefeu)
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:89
+        )
+
+    [88] => stdClass Object
+        (
+            [nome] => Homem-Vegetal
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Bestiário 1, pg:82
+        )
+
+    [89] => stdClass Object
+        (
+            [nome] => Incubador
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:83
+        )
+
+    [90] => stdClass Object
+        (
+            [nome] => Inumano
+            [nd] => 6
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:84
+        )
+
+    [91] => stdClass Object
+        (
+            [nome] => Kobold Filho do Dragão
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:85
+        )
+
+    [92] => stdClass Object
+        (
+            [nome] => Lâmia
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:86
+        )
+
+    [93] => stdClass Object
+        (
+            [nome] => Mantícora
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:96
+        )
+
+    [94] => stdClass Object
+        (
+            [nome] => Tendrículo
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:110
+        )
+
+    [95] => stdClass Object
+        (
+            [nome] => Humano Vampiro Guerreiro
+            [nd] => 6
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:120
+        )
+
+    [96] => stdClass Object
+        (
+            [nome] => Bruxa do Mar (elfo-do-mar)
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:57
+        )
+
+    [97] => stdClass Object
+        (
+            [nome] => Caçador Invisível
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:17
+        )
+
+    [98] => stdClass Object
+        (
+            [nome] => Dragão Branco Jovem
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:39
+        )
+
+    [99] => stdClass Object
+        (
+            [nome] => Eiradaan (fada)
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:63
+        )
+
+    [100] => stdClass Object
+        (
+            [nome] => Elemental da Água Enorme
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:50
+        )
+
+    [101] => stdClass Object
+        (
+            [nome] => Elemental da Luz Enorme
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:53
+        )
+
+    [102] => stdClass Object
+        (
+            [nome] => Elemental da Terra Enorme
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:54
+        )
+
+    [103] => stdClass Object
+        (
+            [nome] => Elemental do Ar Enorme
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:51
+        )
+
+    [104] => stdClass Object
+        (
+            [nome] => Elemental do Fogo Enorme
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:52
+        )
+
+    [105] => stdClass Object
+        (
+            [nome] => Gigante das Colinas
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:70
+        )
+
+    [106] => stdClass Object
+        (
+            [nome] => Golem de Carne
+            [nd] => 7
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:78
+        )
+
+    [107] => stdClass Object
+        (
+            [nome] => Guerreiro da Luz
+            [nd] => 7
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:80
+        )
+
+    [108] => stdClass Object
+        (
+            [nome] => Hidra de Duas Cabeças
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:81
+        )
+
+    [109] => stdClass Object
+        (
+            [nome] => Medusa
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:96
+        )
+
+    [110] => stdClass Object
+        (
+            [nome] => Objeto Animado Descomunal
+            [nd] => 7
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:103
+        )
+
+    [111] => stdClass Object
+        (
+            [nome] => Pudim Negro
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:107
+        )
+
+    [112] => stdClass Object
+        (
+            [nome] => Rei dos Túneis (troglodita)
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:116
+        )
+
+    [113] => stdClass Object
+        (
+            [nome] => Rhayrivel (diabo)
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:35
+        )
+
+    [114] => stdClass Object
+        (
+            [nome] => Súcubo (demônio)
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:31
+        )
+
+    [115] => stdClass Object
+        (
+            [nome] => Hidra de Cinco Cabeças Zumbi
+            [nd] => 7
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:127
+        )
+
+    [116] => stdClass Object
+        (
+            [nome] => Centauro Chefe
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:23
+        )
+
+    [117] => stdClass Object
+        (
+            [nome] => Dragão Azul Jovem
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:38
+        )
+
+    [118] => stdClass Object
+        (
+            [nome] => Dragão Marinho Jovem
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:41
+        )
+
+    [119] => stdClass Object
+        (
+            [nome] => Dragão Negro Jovem
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:43
+        )
+
+    [120] => stdClass Object
+        (
+            [nome] => Dragão Verde Jovem
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:45
+        )
+
+    [121] => stdClass Object
+        (
+            [nome] => Elemental das Trevas Enorme
+            [nd] => 8
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:55
+        )
+
+    [122] => stdClass Object
+        (
+            [nome] => Ente
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:57
+        )
+
+    [123] => stdClass Object
+        (
+            [nome] => Gigante da Pedra
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:71
+        )
+
+    [124] => stdClass Object
+        (
+            [nome] => Gnoll Caçador de Cabeças
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:75
+        )
+
+    [125] => stdClass Object
+        (
+            [nome] => Nagah Cultista
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:100
+        )
+
+    [126] => stdClass Object
+        (
+            [nome] => Sombra Maior
+            [nd] => 8
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:109
+        )
+
+    [127] => stdClass Object
+        (
+            [nome] => Sprite Encantadora (fada)
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:61
+        )
+
+    [128] => stdClass Object
+        (
+            [nome] => Veridak (lefeu)
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:91
+        )
+
+    [129] => stdClass Object
+        (
+            [nome] => Gigante das colinas Zumbi
+            [nd] => 8
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:126
+        )
+
+    [130] => stdClass Object
+        (
+            [nome] => Gênio da Água
+            [nd] => 8
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:65
+        )
+
+    [131] => stdClass Object
+        (
+            [nome] => Gênio do Fogo
+            [nd] => 8
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:67
+        )
+
+    [132] => stdClass Object
+        (
+            [nome] => Cão de Guerra do Inferno
+            [nd] => 9
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:19
+        )
+
+    [133] => stdClass Object
+        (
+            [nome] => Centopeia-Dragão
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:24
+        )
+
+    [134] => stdClass Object
+        (
+            [nome] => Gigante do Gelo
+            [nd] => 9
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:71
+        )
+
+    [135] => stdClass Object
+        (
+            [nome] => Hurobakk (lefeu)
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:90
+        )
+
+    [136] => stdClass Object
+        (
+            [nome] => Couatl da Luz
+            [nd] => 10
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:27
+        )
+
+    [137] => stdClass Object
+        (
+            [nome] => Couatl das Trevas
+            [nd] => 10
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:27
+        )
+
+    [138] => stdClass Object
+        (
+            [nome] => Dragão Vermelho Jovem
+            [nd] => 10
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:47
+        )
+
+    [139] => stdClass Object
+        (
+            [nome] => Gigante do Fogo
+            [nd] => 10
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:72
+        )
+
+    [140] => stdClass Object
+        (
+            [nome] => Hidra de Cinco Cabeças
+            [nd] => 10
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:82
+        )
+
+    [141] => stdClass Object
+        (
+            [nome] => Jhumariel (demônio)
+            [nd] => 10
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:32
+        )
+
+    [142] => stdClass Object
+        (
+            [nome] => Objeto Animado Colossal
+            [nd] => 10
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:103
+        )
+
+    [143] => stdClass Object
+        (
+            [nome] => Gênios da Luz
+            [nd] => 10
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:67
+        )
+
+    [144] => stdClass Object
+        (
+            [nome] => Golem de Pedra
+            [nd] => 11
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:79
+        )
+
+    [145] => stdClass Object
+        (
+            [nome] => Elemental da Água Ancião
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:50
+        )
+
+    [146] => stdClass Object
+        (
+            [nome] => Elemental do Ar Ancião
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:51
+        )
+
+    [147] => stdClass Object
+        (
+            [nome] => Elemental do Fogo Ancião
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:52
+        )
+
+    [148] => stdClass Object
+        (
+            [nome] => Elemental da Luz Ancião
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:53
+        )
+
+    [149] => stdClass Object
+        (
+            [nome] => Elemental da Terra Ancião
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:54
+        )
+
+    [150] => stdClass Object
+        (
+            [nome] => Mortalha (aparição)
+            [nd] => 11
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:15
+        )
+
+    [151] => stdClass Object
+        (
+            [nome] => Djinni Nobre (gênio)
+            [nd] => 12
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:67
+        )
+
+    [152] => stdClass Object
+        (
+            [nome] => Dragão Branco Adulto
+            [nd] => 12
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:40
+        )
+
+    [153] => stdClass Object
+        (
+            [nome] => Elemental das Trevas Ancião
+            [nd] => 12
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:55
+        )
+
+    [154] => stdClass Object
+        (
+            [nome] => Inumano General
+            [nd] => 12
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:84
+        )
+
+    [155] => stdClass Object
+        (
+            [nome] => Reishid (lefeu)
+            [nd] => 12
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:91
+        )
+
+    [156] => stdClass Object
+        (
+            [nome] => Verme Púrpura
+            [nd] => 12
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:122
+        )
+
+    [157] => stdClass Object
+        (
+            [nome] => Dragão Azul Adulto
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:38
+        )
+
+    [158] => stdClass Object
+        (
+            [nome] => Dragão Marinho Adulto
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:41
+        )
+
+    [159] => stdClass Object
+        (
+            [nome] => Dragão Verde Adulto
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:45
+        )
+
+    [160] => stdClass Object
+        (
+            [nome] => Gigante Bicéfalo
+            [nd] => 13
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:73
+        )
+
+    [161] => stdClass Object
+        (
+            [nome] => Golem de Ferro
+            [nd] => 13
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:79
+        )
+
+    [162] => stdClass Object
+        (
+            [nome] => Hidra de Dez Cabeças
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:82
+        )
+
+    [163] => stdClass Object
+        (
+            [nome] => Dragão Negro Adulto
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:44
+        )
+
+    [164] => stdClass Object
+        (
+            [nome] => Margharon (diabo)
+            [nd] => 14
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:35
+        )
+
+    [165] => stdClass Object
+        (
+            [nome] => Voador Noturno (vulto noturno)
+            [nd] => 14
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:124
+        )
+
+    [166] => stdClass Object
+        (
+            [nome] => Senhor das Múmias
+            [nd] => 15
+            [tipo] => Morto-vivo
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:99
+        )
+
+    [167] => stdClass Object
+        (
+            [nome] => Thuwarokk (lefeu)
+            [nd] => 15
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:92
+        )
+
+    [168] => stdClass Object
+        (
+            [nome] => Andarilho Noturno (vulto noturno)
+            [nd] => 16
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:123
+        )
+
+    [169] => stdClass Object
+        (
+            [nome] => Dragão Vermelho Adulto
+            [nd] => 16
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:47
+        )
+
+    [170] => stdClass Object
+        (
+            [nome] => Dragão Branco Venerável
+            [nd] => 17
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:40
+        )
+
+    [171] => stdClass Object
+        (
+            [nome] => Humano Lich Mago
+            [nd] => 17
+            [tipo] => Morto-vivo
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:93
+        )
+
+    [172] => stdClass Object
+        (
+            [nome] => Marilith (demônio)
+            [nd] => 17
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:32
+        )
+
+    [173] => stdClass Object
+        (
+            [nome] => Dragão Marinho Venerável
+            [nd] => 18
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:42
+        )
+
+    [174] => stdClass Object
+        (
+            [nome] => Dragão Verde Venerável
+            [nd] => 18
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:46
+        )
+
+    [175] => stdClass Object
+        (
+            [nome] => Rastejante Noturno (vulto noturno)
+            [nd] => 18
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:124
+        )
+
+    [176] => stdClass Object
+        (
+            [nome] => Dragão Azul Venerável
+            [nd] => 19
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:38
+        )
+
+    [177] => stdClass Object
+        (
+            [nome] => Kraken
+            [nd] => 19
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:86
+        )
+
+    [178] => stdClass Object
+        (
+            [nome] => Balor (demônio)
+            [nd] => 20
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:33
+        )
+
+    [179] => stdClass Object
+        (
+            [nome] => Dragão Negro Venerável
+            [nd] => 20
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:44
+        )
+
+    [180] => stdClass Object
+        (
+            [nome] => Humano Vampiro Ancião
+            [nd] => 21
+            [tipo] => Morto-vivo
+            [tesouro] => 2
+            [fonte] => Bestiário 1, pg:121
+        )
+
+    [181] => stdClass Object
+        (
+            [nome] => Dragão Branco Ancião
+            [nd] => 22
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:40
+        )
+
+    [182] => stdClass Object
+        (
+            [nome] => Dragão Vermelho Venerável
+            [nd] => 22
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:47
+        )
+
+    [183] => stdClass Object
+        (
+            [nome] => Dragão Marinho Ancião
+            [nd] => 23
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:43
+        )
+
+    [184] => stdClass Object
+        (
+            [nome] => Dragão Verde Ancião
+            [nd] => 24
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:46
+        )
+
+    [185] => stdClass Object
+        (
+            [nome] => Dragão Azul Ancião
+            [nd] => 25
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:38
+        )
+
+    [186] => stdClass Object
+        (
+            [nome] => Dragão Negro Ancião
+            [nd] => 26
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:44
+        )
+
+    [187] => stdClass Object
+        (
+            [nome] => Dragão Vermelho Ancião
+            [nd] => 28
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Bestiário 1, pg:48
+        )
+
+    [188] => stdClass Object
+        (
+            [nome] => Tarrasque
+            [nd] => 31
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:110
+        )
+
+    [189] => stdClass Object
+        (
+            [nome] => Goblin (goblinoide)
+            [nd] => 1/3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:76
+        )
+
+    [190] => stdClass Object
+        (
+            [nome] => Kobold
+            [nd] => 1/3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:85
+        )
+
+    [191] => stdClass Object
+        (
+            [nome] => Rato Gigante
+            [nd] => 1/3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:108
+        )
+
+    [192] => stdClass Object
+        (
+            [nome] => Sprite (fada)
+            [nd] => 1/3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:60
+        )
+
+    [193] => stdClass Object
+        (
+            [nome] => Elfo-do-Mar
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:56
+        )
+
+    [194] => stdClass Object
+        (
+            [nome] => Humano Esqueleto
+            [nd] => 1/2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:59
+        )
+
+    [195] => stdClass Object
+        (
+            [nome] => Gnoll
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:75
+        )
+
+    [196] => stdClass Object
+        (
+            [nome] => Hobgoblin (goblinoide)
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:76
+        )
+
+    [197] => stdClass Object
+        (
+            [nome] => Objeto Animado Mínimo
+            [nd] => 1/2
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:103
+        )
+
+    [198] => stdClass Object
+        (
+            [nome] => Orc
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:104
+        )
+
+    [199] => stdClass Object
+        (
+            [nome] => Pônei de Montaria
+            [nd] => 1/2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:106
+        )
+
+    [200] => stdClass Object
+        (
+            [nome] => Troglodita
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 1, pg:115
+        )
+
+    [201] => stdClass Object
+        (
+            [nome] => Humano Zumbi
+            [nd] => 1/2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 1, pg:126
+        )
+
+    [202] => stdClass Object
+        (
+            [nome] => Asa-Assassina
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:18
+        )
+
+    [203] => stdClass Object
+        (
+            [nome] => Camelo
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:25
+        )
+
+    [204] => stdClass Object
+        (
+            [nome] => Carcaju
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:26
+        )
+
+    [205] => stdClass Object
+        (
+            [nome] => Lagarto Elétrico
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:74
+        )
+
+    [206] => stdClass Object
+        (
+            [nome] => Paraelemental da Fumaça Pequeno
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:92
+        )
+
+    [207] => stdClass Object
+        (
+            [nome] => Paraelemental da Lama Pequeno
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:94
+        )
+
+    [208] => stdClass Object
+        (
+            [nome] => Paraelemental do Gelo Pequeno
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:93
+        )
+
+    [209] => stdClass Object
+        (
+            [nome] => Paraelemental do Magma Pequeno
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:96
+        )
+
+    [210] => stdClass Object
+        (
+            [nome] => Soldado-Sapo (povo-sapo)
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:101
+        )
+
+    [211] => stdClass Object
+        (
+            [nome] => Stirge
+            [nd] => 1
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:114
+        )
+
+    [212] => stdClass Object
+        (
+            [nome] => Touro
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:117
+        )
+
+    [213] => stdClass Object
+        (
+            [nome] => Cogumelo Anão
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:30
+        )
+
+    [214] => stdClass Object
+        (
+            [nome] => Coruja Gigante
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:32
+        )
+
+    [215] => stdClass Object
+        (
+            [nome] => Galhada (golem-árvore)
+            [nd] => 2
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:55
+        )
+
+    [216] => stdClass Object
+        (
+            [nome] => Gorila
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:58
+        )
+
+    [217] => stdClass Object
+        (
+            [nome] => Homem-Peixe Soldado
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:62
+        )
+
+    [218] => stdClass Object
+        (
+            [nome] => Javali
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:70
+        )
+
+    [219] => stdClass Object
+        (
+            [nome] => Lagarto Perseguidor
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:74
+        )
+
+    [220] => stdClass Object
+        (
+            [nome] => Leopardo
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:75
+        )
+
+    [221] => stdClass Object
+        (
+            [nome] => Skum
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:114
+        )
+
+    [222] => stdClass Object
+        (
+            [nome] => Taalag
+            [nd] => 2
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:115
+        )
+
+    [223] => stdClass Object
+        (
+            [nome] => Tarantuloide
+            [nd] => 2
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:116
+        )
+
+    [224] => stdClass Object
+        (
+            [nome] => Varghar
+            [nd] => 2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:119
+        )
+
+    [225] => stdClass Object
+        (
+            [nome] => Deinonico (dinossauro)
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:35
+        )
+
+    [226] => stdClass Object
+        (
+            [nome] => Enxame de Kobolds (kobold)
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:72
+        )
+
+    [227] => stdClass Object
+        (
+            [nome] => Espada-da-Floresta (golem-árvore)
+            [nd] => 3
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:56
+        )
+
+    [228] => stdClass Object
+        (
+            [nome] => Fera-Cactus
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:45
+        )
+
+    [229] => stdClass Object
+        (
+            [nome] => Kitalu
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:70
+        )
+
+    [230] => stdClass Object
+        (
+            [nome] => Paraelemental da Fumaça Médio
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:92
+        )
+
+    [231] => stdClass Object
+        (
+            [nome] => Paraelemental da Lama Médio
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:94
+        )
+
+    [232] => stdClass Object
+        (
+            [nome] => Paraelemental do Gelo Médio
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:93
+        )
+
+    [233] => stdClass Object
+        (
+            [nome] => Paraelemental do Magma Médio
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:96
+        )
+
+    [234] => stdClass Object
+        (
+            [nome] => Pilly (neladriel)
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:86
+        )
+
+    [235] => stdClass Object
+        (
+            [nome] => Pterodáctilo (dinossauro)
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:37
+        )
+
+    [236] => stdClass Object
+        (
+            [nome] => Sapo Gigante
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:111
+        )
+
+    [237] => stdClass Object
+        (
+            [nome] => Sarcodio
+            [nd] => 3
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:111
+        )
+
+    [238] => stdClass Object
+        (
+            [nome] => Sereia (sirena)
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:113
+        )
+
+    [239] => stdClass Object
+        (
+            [nome] => Thoqqua
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:116
+        )
+
+    [240] => stdClass Object
+        (
+            [nome] => Tritão (sirena)
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:114
+        )
+
+    [241] => stdClass Object
+        (
+            [nome] => Velociraptor (dinossauro)
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:38
+        )
+
+    [242] => stdClass Object
+        (
+            [nome] => Abelha-Grifo
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:6
+        )
+
+    [243] => stdClass Object
+        (
+            [nome] => Ankheg
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:16
+        )
+
+    [244] => stdClass Object
+        (
+            [nome] => Campeão Batráquio (povo-sapo)
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:102
+        )
+
+    [245] => stdClass Object
+        (
+            [nome] => Cipó Assassino
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:29
+        )
+
+    [246] => stdClass Object
+        (
+            [nome] => Cocatriz
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:29
+        )
+
+    [247] => stdClass Object
+        (
+            [nome] => Cogumelo Anão Sentinela
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:31
+        )
+
+    [248] => stdClass Object
+        (
+            [nome] => Esqueleto-Enxame
+            [nd] => 4
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:42
+        )
+
+    [249] => stdClass Object
+        (
+            [nome] => Fada-Dragão
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:43
+        )
+
+    [250] => stdClass Object
+        (
+            [nome] => Girallon
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:51
+        )
+
+    [251] => stdClass Object
+        (
+            [nome] => Grick
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:58
+        )
+
+    [252] => stdClass Object
+        (
+            [nome] => Guardião de Folhas Médio
+            [nd] => 4
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:59
+        )
+
+    [253] => stdClass Object
+        (
+            [nome] => Guruan
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:60
+        )
+
+    [254] => stdClass Object
+        (
+            [nome] => Harpia
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:61
+        )
+
+    [255] => stdClass Object
+        (
+            [nome] => Homem-Rato
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:64
+        )
+
+    [256] => stdClass Object
+        (
+            [nome] => Igddryl
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:67
+        )
+
+    [257] => stdClass Object
+        (
+            [nome] => Kobold Herói
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:72
+        )
+
+    [258] => stdClass Object
+        (
+            [nome] => Lobisomem Bárbaro
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:75
+        )
+
+    [259] => stdClass Object
+        (
+            [nome] => Mastim das Sombras
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:80
+        )
+
+    [260] => stdClass Object
+        (
+            [nome] => Rinoceronte
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:107
+        )
+
+    [261] => stdClass Object
+        (
+            [nome] => Salamandra Plebeia
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:109
+        )
+
+    [262] => stdClass Object
+        (
+            [nome] => Tumarkhân
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:118
+        )
+
+    [263] => stdClass Object
+        (
+            [nome] => Verme da Carniça
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:120
+        )
+
+    [264] => stdClass Object
+        (
+            [nome] => Zangão do Pesadelo
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:124
+        )
+
+    [265] => stdClass Object
+        (
+            [nome] => Alfgeld
+            [nd] => 5
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:8
+        )
+
+    [266] => stdClass Object
+        (
+            [nome] => Besouro Gigante
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:19
+        )
+
+    [267] => stdClass Object
+        (
+            [nome] => Bruxa do Crepúsculo (bruxa)
+            [nd] => 5
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:21
+        )
+
+    [268] => stdClass Object
+        (
+            [nome] => Ceifador (zangão do pesadelo)
+            [nd] => 5
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:124
+        )
+
+    [269] => stdClass Object
+        (
+            [nome] => Cogumelo Anão Druida
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:31
+        )
+
+    [270] => stdClass Object
+        (
+            [nome] => Crocodilo Gigante
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:32
+        )
+
+    [271] => stdClass Object
+        (
+            [nome] => Homem-Peixe Caçador
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:63
+        )
+
+    [272] => stdClass Object
+        (
+            [nome] => Mantor
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:78
+        )
+
+    [273] => stdClass Object
+        (
+            [nome] => Mímico
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:82
+        )
+
+    [274] => stdClass Object
+        (
+            [nome] => Urso da Neve
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:119
+        )
+
+    [275] => stdClass Object
+        (
+            [nome] => Ganchador
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:47
+        )
+
+    [276] => stdClass Object
+        (
+            [nome] => Golem de Areia
+            [nd] => 6
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:52
+        )
+
+    [277] => stdClass Object
+        (
+            [nome] => Guardião de Folhas Grande
+            [nd] => 6
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:60
+        )
+
+    [278] => stdClass Object
+        (
+            [nome] => Homem-Peixe Clérigo
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:63
+        )
+
+    [279] => stdClass Object
+        (
+            [nome] => Horror Blindado
+            [nd] => 6
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:66
+        )
+
+    [280] => stdClass Object
+        (
+            [nome] => Naga
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:84
+        )
+
+    [281] => stdClass Object
+        (
+            [nome] => Réu
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:106
+        )
+
+    [282] => stdClass Object
+        (
+            [nome] => Salamandra Guerreira
+            [nd] => 6
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:109
+        )
+
+    [283] => stdClass Object
+        (
+            [nome] => Afogado
+            [nd] => 7
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:9
+        )
+
+    [284] => stdClass Object
+        (
+            [nome] => Baleia
+            [nd] => 7
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:18
+        )
+
+    [285] => stdClass Object
+        (
+            [nome] => Bruxa da Noite (bruxa)
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:22
+        )
+
+    [286] => stdClass Object
+        (
+            [nome] => Bulette
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:24
+        )
+
+    [287] => stdClass Object
+        (
+            [nome] => Chuul
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:28
+        )
+
+    [288] => stdClass Object
+        (
+            [nome] => Cocatriz-lmperador
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:30
+        )
+
+    [289] => stdClass Object
+        (
+            [nome] => Elefante da Savana (elefante)
+            [nd] => 7
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:39
+        )
+
+    [290] => stdClass Object
+        (
+            [nome] => Esmaga-Ossos
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:40
+        )
+
+    [291] => stdClass Object
+        (
+            [nome] => Fado (inevitável)
+            [nd] => 7
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:68
+        )
+
+    [292] => stdClass Object
+        (
+            [nome] => Fantasma
+            [nd] => 7
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:44
+        )
+
+    [293] => stdClass Object
+        (
+            [nome] => Golem de Bronze
+            [nd] => 7
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:53
+        )
+
+    [294] => stdClass Object
+        (
+            [nome] => Homem-Peixe Capitão
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:62
+        )
+
+    [295] => stdClass Object
+        (
+            [nome] => Kobold Rei
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 2
+            [fonte] => Bestiário 2, pg:72
+        )
+
+    [296] => stdClass Object
+        (
+            [nome] => Massa Cinzenta
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:79
+        )
+
+    [297] => stdClass Object
+        (
+            [nome] => Ogro das Sanguinárias
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:90
+        )
+
+    [298] => stdClass Object
+        (
+            [nome] => Protetor (anjo)
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:12
+        )
+
+    [299] => stdClass Object
+        (
+            [nome] => Ancião das Rochas
+            [nd] => 8
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:10
+        )
+
+    [300] => stdClass Object
+        (
+            [nome] => Árvore-Matilha (golem-árvore)
+            [nd] => 8
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:57
+        )
+
+    [301] => stdClass Object
+        (
+            [nome] => Bodak
+            [nd] => 8
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:20
+        )
+
+    [302] => stdClass Object
+        (
+            [nome] => Catoblepas
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:26
+        )
+
+    [303] => stdClass Object
+        (
+            [nome] => Dançarino da Água
+            [nd] => 8
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:33
+        )
+
+    [304] => stdClass Object
+        (
+            [nome] => Elasmossauro (dinossauro)
+            [nd] => 8
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:36
+        )
+
+    [305] => stdClass Object
+        (
+            [nome] => Mamute (elefante)
+            [nd] => 8
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:39
+        )
+
+    [306] => stdClass Object
+        (
+            [nome] => Polivalente (zangão do pesadelo)
+            [nd] => 8
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:125
+        )
+
+    [307] => stdClass Object
+        (
+            [nome] => Polvo Gigante
+            [nd] => 8
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:100
+        )
+
+    [308] => stdClass Object
+        (
+            [nome] => Quimera
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:102
+        )
+
+    [309] => stdClass Object
+        (
+            [nome] => Shiradi (neladriel)
+            [nd] => 8
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:86
+        )
+
+    [310] => stdClass Object
+        (
+            [nome] => Triceratops (dinossauro)
+            [nd] => 8
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:38
+        )
+
+    [311] => stdClass Object
+        (
+            [nome] => Xorn Comum
+            [nd] => 8
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:123
+        )
+
+    [312] => stdClass Object
+        (
+            [nome] => Aracnarcano
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Bestiário 2, pg:17
+        )
+
+    [313] => stdClass Object
+        (
+            [nome] => Basilisco Maior
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:17
+        )
+
+    [314] => stdClass Object
+        (
+            [nome] => Escavador
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:39
+        )
+
+    [315] => stdClass Object
+        (
+            [nome] => Gigante Mutante
+            [nd] => 9
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:48
+        )
+
+    [316] => stdClass Object
+        (
+            [nome] => Golem de Espelhos
+            [nd] => 9
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:53
+        )
+
+    [317] => stdClass Object
+        (
+            [nome] => Górgona
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:57
+        )
+
+    [318] => stdClass Object
+        (
+            [nome] => Morgue
+            [nd] => 9
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:82
+        )
+
+    [319] => stdClass Object
+        (
+            [nome] => Orquídea Carnívora
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:90
+        )
+
+    [320] => stdClass Object
+        (
+            [nome] => Salamandra Nobre
+            [nd] => 9
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Bestiário 2, pg:110
+        )
+
+    [321] => stdClass Object
+        (
+            [nome] => Tiranossauro Rex (dinossauro)
+            [nd] => 9
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:37
+        )
+
+    [322] => stdClass Object
+        (
+            [nome] => Lobisomem Chefe Bárbaro
+            [nd] => 10
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:76
+        )
+
+    [323] => stdClass Object
+        (
+            [nome] => Pirâmide Gelatinosa
+            [nd] => 10
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:100
+        )
+
+    [324] => stdClass Object
+        (
+            [nome] => Serpente Marinha
+            [nd] => 10
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:112
+        )
+
+    [325] => stdClass Object
+        (
+            [nome] => Aboleth
+            [nd] => 11
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Bestiário 2, pg:7
+        )
+
+    [326] => stdClass Object
+        (
+            [nome] => Besouro do Óleo
+            [nd] => 11
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:19
+        )
+
+    [327] => stdClass Object
+        (
+            [nome] => Braquiossauro (dinossauro)
+            [nd] => 11
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:35
+        )
+
+    [328] => stdClass Object
+        (
+            [nome] => Naga das Trevas
+            [nd] => 11
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Bestiário 2, pg:85
+        )
+
+    [329] => stdClass Object
+        (
+            [nome] => Paraelemental da Fumaça Ancião
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:92
+        )
+
+    [330] => stdClass Object
+        (
+            [nome] => Paraelemental da Lama Ancião
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:95
+        )
+
+    [331] => stdClass Object
+        (
+            [nome] => Paraelemental do Gelo Ancião
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:93
+        )
+
+    [332] => stdClass Object
+        (
+            [nome] => Paraelemental do Magma Ancião
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:96
+        )
+
+    [333] => stdClass Object
+        (
+            [nome] => Probo (inevitável)
+            [nd] => 11
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:69
+        )
+
+    [334] => stdClass Object
+        (
+            [nome] => Troll das Montanhas
+            [nd] => 11
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:117
+        )
+
+    [335] => stdClass Object
+        (
+            [nome] => Verme do Gelo
+            [nd] => 11
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:121
+        )
+
+    [336] => stdClass Object
+        (
+            [nome] => Dínamo
+            [nd] => 12
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:33
+        )
+
+    [337] => stdClass Object
+        (
+            [nome] => Golem de Lama
+            [nd] => 12
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:54
+        )
+
+    [338] => stdClass Object
+        (
+            [nome] => Pássaro Roca
+            [nd] => 12
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:96
+        )
+
+    [339] => stdClass Object
+        (
+            [nome] => Bruxa das Trevas (bruxa)
+            [nd] => 13
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:23
+        )
+
+    [340] => stdClass Object
+        (
+            [nome] => Fera-Mãe (fera-cactus)
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:46
+        )
+
+    [341] => stdClass Object
+        (
+            [nome] => Múltiplo
+            [nd] => 13
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:83
+        )
+
+    [342] => stdClass Object
+        (
+            [nome] => Troll Xamã
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:118
+        )
+
+    [343] => stdClass Object
+        (
+            [nome] => Fera do Caos
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:46
+        )
+
+    [344] => stdClass Object
+        (
+            [nome] => Parcus (inevitável)
+            [nd] => 14
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:70
+        )
+
+    [345] => stdClass Object
+        (
+            [nome] => Horror das Trevas
+            [nd] => 15
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:66
+        )
+
+    [346] => stdClass Object
+        (
+            [nome] => Muhir (neladriel)
+            [nd] => 15
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:88
+        )
+
+    [347] => stdClass Object
+        (
+            [nome] => Sala da Morte
+            [nd] => 15
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:107
+        )
+
+    [348] => stdClass Object
+        (
+            [nome] => Caranguejo de Guerra
+            [nd] => 16
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:25
+        )
+
+    [349] => stdClass Object
+        (
+            [nome] => Orel (anjo)
+            [nd] => 16
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:13
+        )
+
+    [350] => stdClass Object
+        (
+            [nome] => Xorn Ancião
+            [nd] => 16
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:123
+        )
+
+    [351] => stdClass Object
+        (
+            [nome] => Cemitério Vivo
+            [nd] => 17
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:27
+        )
+
+    [352] => stdClass Object
+        (
+            [nome] => Rakshasa
+            [nd] => 17
+            [tipo] => Humanóide
+            [tesouro] => 3
+            [fonte] => Bestiário 2, pg:104
+        )
+
+    [353] => stdClass Object
+        (
+            [nome] => Espírito da Terra
+            [nd] => 18
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:41
+        )
+
+    [354] => stdClass Object
+        (
+            [nome] => Megapeia
+            [nd] => 18
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:80
+        )
+
+    [355] => stdClass Object
+        (
+            [nome] => Gigante Real
+            [nd] => 19
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Bestiário 2, pg:49
+        )
+
+    [356] => stdClass Object
+        (
+            [nome] => Magnetus
+            [nd] => 19
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:77
+        )
+
+    [357] => stdClass Object
+        (
+            [nome] => Fúria (anjo)
+            [nd] => 20
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:14
+        )
+
+    [358] => stdClass Object
+        (
+            [nome] => Nayansilvel (neladriel)
+            [nd] => 20
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Bestiário 2, pg:89
+        )
+
+    [359] => stdClass Object
+        (
+            [nome] => Pileus
+            [nd] => 25
+            [tipo] => Morto-vivo
+            [tesouro] => 2
+            [fonte] => Bestiário 2, pg:98
+        )
+
+    [360] => stdClass Object
+        (
+            [nome] => Random
+            [nd] => 29
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:105
+        )
+
+    [361] => stdClass Object
+        (
+            [nome] => Gigante Máximo
+            [nd] => 30
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Bestiário 2, pg:50
+        )
+
+    [362] => stdClass Object
+        (
+            [nome] => 
+            [nd] => 
+            [tipo] => 
+            [tesouro] => 
+            [fonte] => 
+        )
+
+    [363] => stdClass Object
+        (
+            [nome] => Patrulheiro da Milícia
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:88
+        )
+
+    [364] => stdClass Object
+        (
+            [nome] => Soldado
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:91
+        )
+
+    [365] => stdClass Object
+        (
+            [nome] => Capanga
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:92
+        )
+
+    [366] => stdClass Object
+        (
+            [nome] => Predador do Lixo
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:97
+        )
+
+    [367] => stdClass Object
+        (
+            [nome] => Crocodilo da Poluição
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:98
+        )
+
+    [368] => stdClass Object
+        (
+            [nome] => Investigador Guerreiro da Milícia
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:89
+        )
+
+    [369] => stdClass Object
+        (
+            [nome] => Investigador ladino da Milícia
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:89
+        )
+
+    [370] => stdClass Object
+        (
+            [nome] => Investigador Mago da Milícia
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:90
+        )
+
+    [371] => stdClass Object
+        (
+            [nome] => Investigador Clérigo da Milícia
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:91
+        )
+
+    [372] => stdClass Object
+        (
+            [nome] => Limo do Esgoto
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:95
+        )
+
+    [373] => stdClass Object
+        (
+            [nome] => Chefão do Crime
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:92
+        )
+
+    [374] => stdClass Object
+        (
+            [nome] => Golem de Entulho
+            [nd] => 8
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:94
+        )
+
+    [375] => stdClass Object
+        (
+            [nome] => Gárgula da Abadia
+            [nd] => 9
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:93
+        )
+
+    [376] => stdClass Object
+        (
+            [nome] => Multidão Morta
+            [nd] => 11
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:96
+        )
+
+    [377] => stdClass Object
+        (
+            [nome] => Casa Assombrada
+            [nd] => 15
+            [tipo] => Construto
+            [tesouro] => 1
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:93
+        )
+
+    [378] => stdClass Object
+        (
+            [nome] => Punguista (Goblin)
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Valkaria: A Cidade Sob a Deusa, pg:92
+        )
+
+    [379] => stdClass Object
+        (
+            [nome] => Homem-Peixe Fanático
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 04, pg:18
+        )
+
+    [380] => stdClass Object
+        (
+            [nome] => Golfinho
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:21
+        )
+
+    [381] => stdClass Object
+        (
+            [nome] => Pirata do Mar Negro
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:22
+        )
+
+    [382] => stdClass Object
+        (
+            [nome] => Pirata Zumbi
+            [nd] => 1
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:22
+        )
+
+    [383] => stdClass Object
+        (
+            [nome] => Abelha Gigante
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:22
+        )
+
+    [384] => stdClass Object
+        (
+            [nome] => Caranguejeira Gigante
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:23
+        )
+
+    [385] => stdClass Object
+        (
+            [nome] => Crocodilo
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:24
+        )
+
+    [386] => stdClass Object
+        (
+            [nome] => Javali
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:25
+        )
+
+    [387] => stdClass Object
+        (
+            [nome] => Morcego Gigante
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:28
+        )
+
+    [388] => stdClass Object
+        (
+            [nome] => Ratos Zumbis
+            [nd] => 1
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:37
+        )
+
+    [389] => stdClass Object
+        (
+            [nome] => Abelha Gigante Operária
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:62
+        )
+
+    [390] => stdClass Object
+        (
+            [nome] => Legionário da Villa (Minotauro)
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:24
+        )
+
+    [391] => stdClass Object
+        (
+            [nome] => Legio Auxilia Sagitarii (Elfo)
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:25
+        )
+
+    [392] => stdClass Object
+        (
+            [nome] => Hobgoblin de Lamnor
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Só Aventuras 02, pg:50
+        )
+
+    [393] => stdClass Object
+        (
+            [nome] => Carniçal
+            [nd] => 1
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:51
+        )
+
+    [394] => stdClass Object
+        (
+            [nome] => Glong  Goblin Baloeiro
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:24
+        )
+
+    [395] => stdClass Object
+        (
+            [nome] => Milícia de Vectora
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Só Aventuras 01, pg:25
+        )
+
+    [396] => stdClass Object
+        (
+            [nome] => Capanga de Búrash
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 01, pg:26
+        )
+
+    [397] => stdClass Object
+        (
+            [nome] => Pirata de Gorsengred
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:42
+        )
+
+    [398] => stdClass Object
+        (
+            [nome] => Orc Carcereiro
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:49
+        )
+
+    [399] => stdClass Object
+        (
+            [nome] => Soldado de Ahlen
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:51
+        )
+
+    [400] => stdClass Object
+        (
+            [nome] => Polvo
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 04, pg:20
+        )
+
+    [401] => stdClass Object
+        (
+            [nome] => Selako Prateado
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 04, pg:20
+        )
+
+    [402] => stdClass Object
+        (
+            [nome] => Canibal Chefe
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Só Aventuras 03, pg:23
+        )
+
+    [403] => stdClass Object
+        (
+            [nome] => Homem-das-Cavernas
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Só Aventuras 03, pg:24
+        )
+
+    [404] => stdClass Object
+        (
+            [nome] => Cultista de Sartan
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:29
+        )
+
+    [405] => stdClass Object
+        (
+            [nome] => Vermes Fantasma
+            [nd] => 2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:36
+        )
+
+    [406] => stdClass Object
+        (
+            [nome] => Esqueleto Guerreiro
+            [nd] => 2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:48
+        )
+
+    [407] => stdClass Object
+        (
+            [nome] => Kobold Chefe
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:49
+        )
+
+    [408] => stdClass Object
+        (
+            [nome] => Zangão
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:62
+        )
+
+    [409] => stdClass Object
+        (
+            [nome] => Gafanhoto Gigante
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:63
+        )
+
+    [410] => stdClass Object
+        (
+            [nome] => Ogro
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:21
+        )
+
+    [411] => stdClass Object
+        (
+            [nome] => Guarda de Elite (Hobgoblin)
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:21
+        )
+
+    [412] => stdClass Object
+        (
+            [nome] => Elfo-do-Mar Saqueador
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:23
+        )
+
+    [413] => stdClass Object
+        (
+            [nome] => Legio Auxilia Magica (Elfo)
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:25
+        )
+
+    [414] => stdClass Object
+        (
+            [nome] => Aranha Gigante
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:50
+        )
+
+    [415] => stdClass Object
+        (
+            [nome] => Goblin de Tyranix
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Só Aventuras 02, pg:77
+        )
+
+    [416] => stdClass Object
+        (
+            [nome] => Tuk-tuk
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:24
+        )
+
+    [417] => stdClass Object
+        (
+            [nome] => Guarda da Mansão
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:42
+        )
+
+    [418] => stdClass Object
+        (
+            [nome] => Guarda-Costas
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:49
+        )
+
+    [419] => stdClass Object
+        (
+            [nome] => Darvos Ullott
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:72
+        )
+
+    [420] => stdClass Object
+        (
+            [nome] => Tarantuloide
+            [nd] => 2
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Só Aventuras 01, pg:77
+        )
+
+    [421] => stdClass Object
+        (
+            [nome] => Homem-Peixe Sargento
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 04, pg:19
+        )
+
+    [422] => stdClass Object
+        (
+            [nome] => Homem-das-Cavernas Chefe
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Só Aventuras 03, pg:25
+        )
+
+    [423] => stdClass Object
+        (
+            [nome] => Sereia
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:25
+        )
+
+    [424] => stdClass Object
+        (
+            [nome] => Esqueleto Gigante
+            [nd] => 3
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:29
+        )
+
+    [425] => stdClass Object
+        (
+            [nome] => Fantasmas do Salão
+            [nd] => 3
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:36
+        )
+
+    [426] => stdClass Object
+        (
+            [nome] => Soldados Mortos
+            [nd] => 3
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:37
+        )
+
+    [427] => stdClass Object
+        (
+            [nome] => Escorpião Gigante
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:48
+        )
+
+    [428] => stdClass Object
+        (
+            [nome] => Formiga Gigante Soldado
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:61
+        )
+
+    [429] => stdClass Object
+        (
+            [nome] => Selako
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:24
+        )
+
+    [430] => stdClass Object
+        (
+            [nome] => Duplo
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:24
+        )
+
+    [431] => stdClass Object
+        (
+            [nome] => Elfo Negro Assassino
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:46
+        )
+
+    [432] => stdClass Object
+        (
+            [nome] => Pterodáctilo
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:50
+        )
+
+    [433] => stdClass Object
+        (
+            [nome] => Halfling Canibal
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:52
+        )
+
+    [434] => stdClass Object
+        (
+            [nome] => Lobo-das-Cavernas Alpha
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:53
+        )
+
+    [435] => stdClass Object
+        (
+            [nome] => Ranger de Villithien
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:53
+        )
+
+    [436] => stdClass Object
+        (
+            [nome] => Guardas Hobgoblins
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Só Aventuras 02, pg:77
+        )
+
+    [437] => stdClass Object
+        (
+            [nome] => Ogro Viciado
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:46
+        )
+
+    [438] => stdClass Object
+        (
+            [nome] => Eltras
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:51
+        )
+
+    [439] => stdClass Object
+        (
+            [nome] => Dragoa Caçadora
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 01, pg:76
+        )
+
+    [440] => stdClass Object
+        (
+            [nome] => Aranha Gigante
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:77
+        )
+
+    [441] => stdClass Object
+        (
+            [nome] => Deinonico
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:78
+        )
+
+    [442] => stdClass Object
+        (
+            [nome] => Pterodáctilo
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:78
+        )
+
+    [443] => stdClass Object
+        (
+            [nome] => Homem-Peixe Sacerdote
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 04, pg:19
+        )
+
+    [444] => stdClass Object
+        (
+            [nome] => Capitão Kersley
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:21
+        )
+
+    [445] => stdClass Object
+        (
+            [nome] => Gárgula
+            [nd] => 4
+            [tipo] => Construto
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:28
+        )
+
+    [446] => stdClass Object
+        (
+            [nome] => Lobo-das-Neves
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:28
+        )
+
+    [447] => stdClass Object
+        (
+            [nome] => Homens-Javali
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:36
+        )
+
+    [448] => stdClass Object
+        (
+            [nome] => Abelha Gigante Rainha
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:62
+        )
+
+    [449] => stdClass Object
+        (
+            [nome] => Lobo-das-Cavernas
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:52
+        )
+
+    [450] => stdClass Object
+        (
+            [nome] => Estátua Guerreira
+            [nd] => 4
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:76
+        )
+
+    [451] => stdClass Object
+        (
+            [nome] => Orc Infectado
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:78
+        )
+
+    [452] => stdClass Object
+        (
+            [nome] => Oficial da Milícia
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 01, pg:26
+        )
+
+    [453] => stdClass Object
+        (
+            [nome] => Sargento Horglof
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:51
+        )
+
+    [454] => stdClass Object
+        (
+            [nome] => Doutor Tellios
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:51
+        )
+
+    [455] => stdClass Object
+        (
+            [nome] => Zumbi de Tenebra
+            [nd] => 4
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:73
+        )
+
+    [456] => stdClass Object
+        (
+            [nome] => Anaconda
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:23
+        )
+
+    [457] => stdClass Object
+        (
+            [nome] => Capitão Aristan
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:23
+        )
+
+    [458] => stdClass Object
+        (
+            [nome] => Cocatriz
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:24
+        )
+
+    [459] => stdClass Object
+        (
+            [nome] => Estátua de Pedra
+            [nd] => 5
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:27
+        )
+
+    [460] => stdClass Object
+        (
+            [nome] => Múmia
+            [nd] => 5
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:27
+        )
+
+    [461] => stdClass Object
+        (
+            [nome] => Urso Polar
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:29
+        )
+
+    [462] => stdClass Object
+        (
+            [nome] => Guerreiro Brigão
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:36
+        )
+
+    [463] => stdClass Object
+        (
+            [nome] => Cobra-Rei
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:48
+        )
+
+    [464] => stdClass Object
+        (
+            [nome] => Estátuas Guardiãs
+            [nd] => 5
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:49
+        )
+
+    [465] => stdClass Object
+        (
+            [nome] => Formiga Gigante Rainha
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:62
+        )
+
+    [466] => stdClass Object
+        (
+            [nome] => Besouro Gigante
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:62
+        )
+
+    [467] => stdClass Object
+        (
+            [nome] => Xamã (Bugbear)
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:22
+        )
+
+    [468] => stdClass Object
+        (
+            [nome] => Nagah Guardião
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:53
+        )
+
+    [469] => stdClass Object
+        (
+            [nome] => Aparição
+            [nd] => 5
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:76
+        )
+
+    [470] => stdClass Object
+        (
+            [nome] => Besouro Gigante
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:75
+        )
+
+    [471] => stdClass Object
+        (
+            [nome] => Ameba Gigante
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:27
+        )
+
+    [472] => stdClass Object
+        (
+            [nome] => Comandante (Hobgoblin)
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:22
+        )
+
+    [473] => stdClass Object
+        (
+            [nome] => Centurião (Minotauro)
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:23
+        )
+
+    [474] => stdClass Object
+        (
+            [nome] => Inumano
+            [nd] => 6
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:52
+        )
+
+    [475] => stdClass Object
+        (
+            [nome] => Inumano Sargento
+            [nd] => 6
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:52
+        )
+
+    [476] => stdClass Object
+        (
+            [nome] => Zairon
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:25
+        )
+
+    [477] => stdClass Object
+        (
+            [nome] => Galuk  Camareiro Chefe da Mansão Zinfraud
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:41
+        )
+
+    [478] => stdClass Object
+        (
+            [nome] => Inigo  Espadachim Bandido
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:41
+        )
+
+    [479] => stdClass Object
+        (
+            [nome] => Ângela Zinfraud
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:42
+        )
+
+    [480] => stdClass Object
+        (
+            [nome] => Capitão Joldan
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:73
+        )
+
+    [481] => stdClass Object
+        (
+            [nome] => Tendrículo
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:76
+        )
+
+    [482] => stdClass Object
+        (
+            [nome] => Gigante das Colinas
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:24
+        )
+
+    [483] => stdClass Object
+        (
+            [nome] => Hidra de Duas Cabeças
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:24
+        )
+
+    [484] => stdClass Object
+        (
+            [nome] => Primeiro Guardião do Disco
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:26
+        )
+
+    [485] => stdClass Object
+        (
+            [nome] => Formiga Megalonte
+            [nd] => 7
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:63
+        )
+
+    [486] => stdClass Object
+        (
+            [nome] => Criatura-fungo
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:78
+        )
+
+    [487] => stdClass Object
+        (
+            [nome] => Norla Zinfraud
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:41
+        )
+
+    [488] => stdClass Object
+        (
+            [nome] => Golem de Bronze
+            [nd] => 7
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:42
+        )
+
+    [489] => stdClass Object
+        (
+            [nome] => Zanir  Qareen Conselheiro
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:48
+        )
+
+    [490] => stdClass Object
+        (
+            [nome] => Elasmossauro
+            [nd] => 8
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:21
+        )
+
+    [491] => stdClass Object
+        (
+            [nome] => Polvo Gigante
+            [nd] => 8
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:22
+        )
+
+    [492] => stdClass Object
+        (
+            [nome] => Tigre Dentes-de-Sabre
+            [nd] => 8
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:25
+        )
+
+    [493] => stdClass Object
+        (
+            [nome] => Segundo Guardião do Disco
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:27
+        )
+
+    [494] => stdClass Object
+        (
+            [nome] => Terceiro Guardião do Disco
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:28
+        )
+
+    [495] => stdClass Object
+        (
+            [nome] => Líder dos Cultistas
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:29
+        )
+
+    [496] => stdClass Object
+        (
+            [nome] => Dezzaroh
+            [nd] => 8
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:48
+        )
+
+    [497] => stdClass Object
+        (
+            [nome] => Elasmossauro
+            [nd] => 8
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:24
+        )
+
+    [498] => stdClass Object
+        (
+            [nome] => Xorn Gigante
+            [nd] => 8
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:77
+        )
+
+    [499] => stdClass Object
+        (
+            [nome] => Ghudrin  Infectado
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:79
+        )
+
+    [500] => stdClass Object
+        (
+            [nome] => Turu do Vácuo
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 04, pg:48
+        )
+
+    [501] => stdClass Object
+        (
+            [nome] => Tiranossauro
+            [nd] => 9
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:26
+        )
+
+    [502] => stdClass Object
+        (
+            [nome] => Andrus  o Aranha
+            [nd] => 9
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:60
+        )
+
+    [503] => stdClass Object
+        (
+            [nome] => Campeão da Família Martius
+            [nd] => 9
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:25
+        )
+
+    [504] => stdClass Object
+        (
+            [nome] => Campeão de Turvaxx
+            [nd] => 9
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:76
+        )
+
+    [505] => stdClass Object
+        (
+            [nome] => Golem de Espelhos
+            [nd] => 9
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:43
+        )
+
+    [506] => stdClass Object
+        (
+            [nome] => Taerir Hordiggard
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:45
+        )
+
+    [507] => stdClass Object
+        (
+            [nome] => Astos Tivanor
+            [nd] => 9
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:48
+        )
+
+    [508] => stdClass Object
+        (
+            [nome] => Iryna de Tenebra
+            [nd] => 9
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:72
+        )
+
+    [509] => stdClass Object
+        (
+            [nome] => Luminescente
+            [nd] => 9
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:73
+        )
+
+    [510] => stdClass Object
+        (
+            [nome] => Aracnarcano
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Só Aventuras 01, pg:77
+        )
+
+    [511] => stdClass Object
+        (
+            [nome] => Raven Blackmoon
+            [nd] => 10
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:59
+        )
+
+    [512] => stdClass Object
+        (
+            [nome] => Turvaxx
+            [nd] => 10
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:77
+        )
+
+    [513] => stdClass Object
+        (
+            [nome] => Serpente Marinha
+            [nd] => 10
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:75
+        )
+
+    [514] => stdClass Object
+        (
+            [nome] => Lorde Kragan
+            [nd] => 11
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:37
+        )
+
+    [515] => stdClass Object
+        (
+            [nome] => Besouro do Óleo
+            [nd] => 11
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:79
+        )
+
+    [516] => stdClass Object
+        (
+            [nome] => Senhor da Montanha
+            [nd] => 12
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:79
+        )
+
+    [517] => stdClass Object
+        (
+            [nome] => Lorde Enxame
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:60
+        )
+
+    [518] => stdClass Object
+        (
+            [nome] => Dragão Marinho Adulto
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Só Aventuras 02, pg:51
+        )
+
+    [519] => stdClass Object
+        (
+            [nome] => Dragão Verde Adulto
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Só Aventuras 02, pg:51
+        )
+
+    [520] => stdClass Object
+        (
+            [nome] => Blackwing
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:60
+        )
+
+    [521] => stdClass Object
+        (
+            [nome] => Tyranix/Thordrin
+            [nd] => 14
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:78
+        )
+
+    [522] => stdClass Object
+        (
+            [nome] => Jacyn
+            [nd] => 15
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Só Aventuras 02, pg:79
+        )
+
+    [523] => stdClass Object
+        (
+            [nome] => Tiranossauro Gigante
+            [nd] => 15
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:75
+        )
+
+    [524] => stdClass Object
+        (
+            [nome] => Colosso Fungo
+            [nd] => 18
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:78
+        )
+
+    [525] => stdClass Object
+        (
+            [nome] => Mestre Arsenal
+            [nd] => 20
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:59
+        )
+
+    [526] => stdClass Object
+        (
+            [nome] => Elfos-do-Mar
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:21
+        )
+
+    [527] => stdClass Object
+        (
+            [nome] => Canibal
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Só Aventuras 03, pg:23
+        )
+
+    [528] => stdClass Object
+        (
+            [nome] => Cascavel
+            [nd] => 1/2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:27
+        )
+
+    [529] => stdClass Object
+        (
+            [nome] => Formiga Gigante Operária
+            [nd] => 1/2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Só Aventuras 03, pg:61
+        )
+
+    [530] => stdClass Object
+        (
+            [nome] => Hobgoblin
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:21
+        )
+
+    [531] => stdClass Object
+        (
+            [nome] => Legionário (Minotauro)
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:22
+        )
+
+    [532] => stdClass Object
+        (
+            [nome] => Arqueiro Escravo (Elfo)
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 02, pg:22
+        )
+
+    [533] => stdClass Object
+        (
+            [nome] => Goblin de Lamnor
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Só Aventuras 02, pg:50
+        )
+
+    [534] => stdClass Object
+        (
+            [nome] => Gnoll Mercenário
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 01, pg:24
+        )
+
+    [535] => stdClass Object
+        (
+            [nome] => Goblin Baloeiro
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 01, pg:25
+        )
+
+    [536] => stdClass Object
+        (
+            [nome] => Bandido de Vectora
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 01, pg:25
+        )
+
+    [537] => stdClass Object
+        (
+            [nome] => Cultilsta Esqueleto
+            [nd] => 1/2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:27
+        )
+
+    [538] => stdClass Object
+        (
+            [nome] => Cultista Zumbi
+            [nd] => 1/2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:27
+        )
+
+    [539] => stdClass Object
+        (
+            [nome] => Bandido
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:46
+        )
+
+    [540] => stdClass Object
+        (
+            [nome] => Gnoll Escravista
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:49
+        )
+
+    [541] => stdClass Object
+        (
+            [nome] => Marujo do Filha do Oceano
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:74
+        )
+
+    [542] => stdClass Object
+        (
+            [nome] => Kobold
+            [nd] => 1/3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 03, pg:49
+        )
+
+    [543] => stdClass Object
+        (
+            [nome] => Goblin
+            [nd] => 1/3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Só Aventuras 02, pg:21
+        )
+
+    [544] => stdClass Object
+        (
+            [nome] => Molag  Ogro Mutante de Duas Cabeças
+            [nd] => 1/3
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Só Aventuras 01, pg:27
+        )
+
+    [545] => stdClass Object
+        (
+            [nome] => Líder Cultista
+            [nd] => 1/3
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Só Aventuras 01, pg:27
+        )
+
+    [546] => stdClass Object
+        (
+            [nome] => Varano de Khubar
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Pergaminhos Ancestrais, pg:98
+        )
+
+    [547] => stdClass Object
+        (
+            [nome] => Vokdra
+            [nd] => 2
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Pergaminhos Ancestrais, pg:219
+        )
+
+    [548] => stdClass Object
+        (
+            [nome] => Ladrão de Partes
+            [nd] => 5
+            [tipo] => Construto
+            [tesouro] => 0.5
+            [fonte] => Pergaminhos Ancestrais, pg:209
+        )
+
+    [549] => stdClass Object
+        (
+            [nome] => Golem de Pão Gorad
+            [nd] => 6
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Pergaminhos Ancestrais, pg:94
+        )
+
+    [550] => stdClass Object
+        (
+            [nome] => Portador da Alvorada
+            [nd] => 7
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Pergaminhos Ancestrais, pg:212
+        )
+
+    [551] => stdClass Object
+        (
+            [nome] => O Monstro
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Pergaminhos Ancestrais, pg:96
+        )
+
+    [552] => stdClass Object
+        (
+            [nome] => Bruxa da Floresta
+            [nd] => 10
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Pergaminhos Ancestrais, pg:88
+        )
+
+    [553] => stdClass Object
+        (
+            [nome] => Dumadumadaram
+            [nd] => 15
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Pergaminhos Ancestrais, pg:214
+        )
+
+    [554] => stdClass Object
+        (
+            [nome] => Samsa
+            [nd] => 1/2
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Pergaminhos Ancestrais, pg:97
+        )
+
+    [555] => stdClass Object
+        (
+            [nome] => Magatixa
+            [nd] => 1/2
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Pergaminhos Ancestrais, pg:221
+        )
+
+    [556] => stdClass Object
+        (
+            [nome] => Apiapi Operária
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:155
+        )
+
+    [557] => stdClass Object
+        (
+            [nome] => Elfo Sombrio Patrulheiro
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:166
+        )
+
+    [558] => stdClass Object
+        (
+            [nome] => Formiga-Hiena
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:171
+        )
+
+    [559] => stdClass Object
+        (
+            [nome] => Nezumi
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:195
+        )
+
+    [560] => stdClass Object
+        (
+            [nome] => Cervo de Cristal
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:152
+        )
+
+    [561] => stdClass Object
+        (
+            [nome] => Corcel do Deserto
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:157
+        )
+
+    [562] => stdClass Object
+        (
+            [nome] => Elemental da Magia Pequeno
+            [nd] => 2
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:165
+        )
+
+    [563] => stdClass Object
+        (
+            [nome] => Homem-Lagarto
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:177
+        )
+
+    [564] => stdClass Object
+        (
+            [nome] => Batedor Tun’walaaye
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:202
+        )
+
+    [565] => stdClass Object
+        (
+            [nome] => Vanara
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:203
+        )
+
+    [566] => stdClass Object
+        (
+            [nome] => Zumbidor
+            [nd] => 2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:206
+        )
+
+    [567] => stdClass Object
+        (
+            [nome] => Homem-Escorpião
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Mundo dos Deuses, pg:176
+        )
+
+    [568] => stdClass Object
+        (
+            [nome] => Inseto-Árvore Gigante
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0.5
+            [fonte] => Mundo dos Deuses, pg:179
+        )
+
+    [569] => stdClass Object
+        (
+            [nome] => Kyonshi Comum
+            [nd] => 3
+            [tipo] => Morto-vivo
+            [tesouro] => 0.5
+            [fonte] => Mundo dos Deuses, pg:182
+        )
+
+    [570] => stdClass Object
+        (
+            [nome] => Preguiça-Gigante de Cristal
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:152
+        )
+
+    [571] => stdClass Object
+        (
+            [nome] => Apiapi Zangão
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:155
+        )
+
+    [572] => stdClass Object
+        (
+            [nome] => Maziel
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:159
+        )
+
+    [573] => stdClass Object
+        (
+            [nome] => Criohidra de Duas Cabeças
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:173
+        )
+
+    [574] => stdClass Object
+        (
+            [nome] => Licantropo-Morcego
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:190
+        )
+
+    [575] => stdClass Object
+        (
+            [nome] => Dragão-Camaleão
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:162
+        )
+
+    [576] => stdClass Object
+        (
+            [nome] => Xamã de Harraakh
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:178
+        )
+
+    [577] => stdClass Object
+        (
+            [nome] => Korobokuru
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:181
+        )
+
+    [578] => stdClass Object
+        (
+            [nome] => Morsalamandra
+            [nd] => 5
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:193
+        )
+
+    [579] => stdClass Object
+        (
+            [nome] => Armadilefante
+            [nd] => 6
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:155
+        )
+
+    [580] => stdClass Object
+        (
+            [nome] => Elfo Sombrio Mago
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:167
+        )
+
+    [581] => stdClass Object
+        (
+            [nome] => Lagarto-de-Tiro
+            [nd] => 6
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:183
+        )
+
+    [582] => stdClass Object
+        (
+            [nome] => Larva de Mosca-Cometa
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:194
+        )
+
+    [583] => stdClass Object
+        (
+            [nome] => Siliçodonte
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Mundo dos Deuses, pg:201
+        )
+
+    [584] => stdClass Object
+        (
+            [nome] => Cavaleiro Tun’walaaye
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:203
+        )
+
+    [585] => stdClass Object
+        (
+            [nome] => Verme-de-Pyra
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:205
+        )
+
+    [586] => stdClass Object
+        (
+            [nome] => Centauro-Aranha
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Mundo dos Deuses, pg:156
+        )
+
+    [587] => stdClass Object
+        (
+            [nome] => Criança de Lena
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Mundo dos Deuses, pg:157
+        )
+
+    [588] => stdClass Object
+        (
+            [nome] => Elemental da Magia Enorme
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:165
+        )
+
+    [589] => stdClass Object
+        (
+            [nome] => Leoa-Rainha
+            [nd] => 7
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:170
+        )
+
+    [590] => stdClass Object
+        (
+            [nome] => Criohidra de Cinco Cabeças
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:174
+        )
+
+    [591] => stdClass Object
+        (
+            [nome] => Kyonshi Possuído
+            [nd] => 7
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:183
+        )
+
+    [592] => stdClass Object
+        (
+            [nome] => Licantropo-Coruja
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:190
+        )
+
+    [593] => stdClass Object
+        (
+            [nome] => Fênix
+            [nd] => 8
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:168
+        )
+
+    [594] => stdClass Object
+        (
+            [nome] => Pirohidra de Duas Cabeças
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:174
+        )
+
+    [595] => stdClass Object
+        (
+            [nome] => Venohidra de Duas Cabeças
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:175
+        )
+
+    [596] => stdClass Object
+        (
+            [nome] => Erynies
+            [nd] => 9
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:159
+        )
+
+    [597] => stdClass Object
+        (
+            [nome] => Honto-no-Oni
+            [nd] => 9
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:179
+        )
+
+    [598] => stdClass Object
+        (
+            [nome] => Mosca-Cometa
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:194
+        )
+
+    [599] => stdClass Object
+        (
+            [nome] => Eclipsar
+            [nd] => 10
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:164
+        )
+
+    [600] => stdClass Object
+        (
+            [nome] => Gog’magogue Jovem
+            [nd] => 10
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:171
+        )
+
+    [601] => stdClass Object
+        (
+            [nome] => Criohidra de Dez Cabeças
+            [nd] => 10
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:174
+        )
+
+    [602] => stdClass Object
+        (
+            [nome] => Tauroque
+            [nd] => 10
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:202
+        )
+
+    [603] => stdClass Object
+        (
+            [nome] => Anjo-do-Mar
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:152
+        )
+
+    [604] => stdClass Object
+        (
+            [nome] => Fantasma de Aço
+            [nd] => 11
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:167
+        )
+
+    [605] => stdClass Object
+        (
+            [nome] => Pirohidra de Cinco Cabeças
+            [nd] => 11
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:175
+        )
+
+    [606] => stdClass Object
+        (
+            [nome] => Venohidra de Cinco Cabeças
+            [nd] => 11
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:176
+        )
+
+    [607] => stdClass Object
+        (
+            [nome] => Banshee
+            [nd] => 12
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:156
+        )
+
+    [608] => stdClass Object
+        (
+            [nome] => Rhayphozz
+            [nd] => 12
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:160
+        )
+
+    [609] => stdClass Object
+        (
+            [nome] => Licantropo-Tigre
+            [nd] => 12
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:191
+        )
+
+    [610] => stdClass Object
+        (
+            [nome] => Elemental da Magia Ancião
+            [nd] => 13
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:165
+        )
+
+    [611] => stdClass Object
+        (
+            [nome] => Kimazu (lefeu)
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:184
+        )
+
+    [612] => stdClass Object
+        (
+            [nome] => Varukiri (lefeu)
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:186
+        )
+
+    [613] => stdClass Object
+        (
+            [nome] => Dragão Bicéfalo Azul Adulto
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Mundo dos Deuses, pg:161
+        )
+
+    [614] => stdClass Object
+        (
+            [nome] => Dragão Bicéfalo Negro Adulto
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Mundo dos Deuses, pg:161
+        )
+
+    [615] => stdClass Object
+        (
+            [nome] => Pirohidra de Dez Cabeças
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:175
+        )
+
+    [616] => stdClass Object
+        (
+            [nome] => Venohidra de Dez Cabeças
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:176
+        )
+
+    [617] => stdClass Object
+        (
+            [nome] => Leão-de-Keenn
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:184
+        )
+
+    [618] => stdClass Object
+        (
+            [nome] => Elefante-Rei
+            [nd] => 15
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:170
+        )
+
+    [619] => stdClass Object
+        (
+            [nome] => Gog’magogue Adulto
+            [nd] => 15
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:173
+        )
+
+    [620] => stdClass Object
+        (
+            [nome] => Selako do Vácuo
+            [nd] => 15
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:200
+        )
+
+    [621] => stdClass Object
+        (
+            [nome] => Anyangah
+            [nd] => 16
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:153
+        )
+
+    [622] => stdClass Object
+        (
+            [nome] => Nkisi
+            [nd] => 16
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:196
+        )
+
+    [623] => stdClass Object
+        (
+            [nome] => Protosirena
+            [nd] => 16
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:196
+        )
+
+    [624] => stdClass Object
+        (
+            [nome] => Verme da Areia
+            [nd] => 17
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:204
+        )
+
+    [625] => stdClass Object
+        (
+            [nome] => Dragão de Cristal <3
+            [nd] => 18
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Mundo dos Deuses, pg:163
+        )
+
+    [626] => stdClass Object
+        (
+            [nome] => Kthurik (lefeu)
+            [nd] => 18
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:185
+        )
+
+    [627] => stdClass Object
+        (
+            [nome] => Katseels
+            [nd] => 19
+            [tipo] => Humanóide
+            [tesouro] => 3
+            [fonte] => Mundo dos Deuses, pg:180
+        )
+
+    [628] => stdClass Object
+        (
+            [nome] => Gog’magogue Ancião
+            [nd] => 20
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:173
+        )
+
+    [629] => stdClass Object
+        (
+            [nome] => Melvi Jovem
+            [nd] => 20
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:192
+        )
+
+    [630] => stdClass Object
+        (
+            [nome] => Melvi Adulto
+            [nd] => 30
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Mundo dos Deuses, pg:192
+        )
+
+    [631] => stdClass Object
+        (
+            [nome] => Katseels
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Mundo dos Deuses, pg:179
+        )
+
+    [632] => stdClass Object
+        (
+            [nome] => Homem-Lagarto
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:105
+        )
+
+    [633] => stdClass Object
+        (
+            [nome] => Lobisomem
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:106
+        )
+
+    [634] => stdClass Object
+        (
+            [nome] => Sahuagin
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:113
+        )
+
+    [635] => stdClass Object
+        (
+            [nome] => Cão
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:116
+        )
+
+    [636] => stdClass Object
+        (
+            [nome] => Hiena
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:119
+        )
+
+    [637] => stdClass Object
+        (
+            [nome] => Lobo
+            [nd] => 1
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:120
+        )
+
+    [638] => stdClass Object
+        (
+            [nome] => Coxo
+            [nd] => 2
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:99
+        )
+
+    [639] => stdClass Object
+        (
+            [nome] => Homem-Crocodilo
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:106
+        )
+
+    [640] => stdClass Object
+        (
+            [nome] => Homem-Leão
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:107
+        )
+
+    [641] => stdClass Object
+        (
+            [nome] => Homem-Hiena
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:108
+        )
+
+    [642] => stdClass Object
+        (
+            [nome] => Homem-Morcego
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:108
+        )
+
+    [643] => stdClass Object
+        (
+            [nome] => Homem-Serpente
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:108
+        )
+
+    [644] => stdClass Object
+        (
+            [nome] => Búfalo-de-Guerra
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:115
+        )
+
+    [645] => stdClass Object
+        (
+            [nome] => Cavalo-Marinho
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:116
+        )
+
+    [646] => stdClass Object
+        (
+            [nome] => Jiboia
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:117
+        )
+
+    [647] => stdClass Object
+        (
+            [nome] => Naja
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:118
+        )
+
+    [648] => stdClass Object
+        (
+            [nome] => Serpente Marinha
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:118
+        )
+
+    [649] => stdClass Object
+        (
+            [nome] => Crocodilo do Pântano
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:118
+        )
+
+    [650] => stdClass Object
+        (
+            [nome] => Urso Negro
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:122
+        )
+
+    [651] => stdClass Object
+        (
+            [nome] => Cão Abissal
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:98
+        )
+
+    [652] => stdClass Object
+        (
+            [nome] => Gigante Búfalo
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:103
+        )
+
+    [653] => stdClass Object
+        (
+            [nome] => Limo Cinzento
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:109
+        )
+
+    [654] => stdClass Object
+        (
+            [nome] => Monstro Ferrugem
+            [nd] => 3
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:110
+        )
+
+    [655] => stdClass Object
+        (
+            [nome] => Hipossauro
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:120
+        )
+
+    [656] => stdClass Object
+        (
+            [nome] => Leão
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:120
+        )
+
+    [657] => stdClass Object
+        (
+            [nome] => Tubarão-Touro
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:122
+        )
+
+    [658] => stdClass Object
+        (
+            [nome] => Barghest
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:97
+        )
+
+    [659] => stdClass Object
+        (
+            [nome] => Córnuden
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:99
+        )
+
+    [660] => stdClass Object
+        (
+            [nome] => Harpia
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:105
+        )
+
+    [661] => stdClass Object
+        (
+            [nome] => Zumbi Verde
+            [nd] => 4
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:111
+        )
+
+    [662] => stdClass Object
+        (
+            [nome] => Otyugh
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:112
+        )
+
+    [663] => stdClass Object
+        (
+            [nome] => Urso Marrom
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:122
+        )
+
+    [664] => stdClass Object
+        (
+            [nome] => Cubo Gelatinoso
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:109
+        )
+
+    [665] => stdClass Object
+        (
+            [nome] => Sucuri
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:117
+        )
+
+    [666] => stdClass Object
+        (
+            [nome] => Cobra-Rei
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:118
+        )
+
+    [667] => stdClass Object
+        (
+            [nome] => Crocodilo Marinho
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:119
+        )
+
+    [668] => stdClass Object
+        (
+            [nome] => Tubarão Branco
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:122
+        )
+
+    [669] => stdClass Object
+        (
+            [nome] => Funesto
+            [nd] => 6
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:100
+        )
+
+    [670] => stdClass Object
+        (
+            [nome] => Gigante Leão
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:104
+        )
+
+    [671] => stdClass Object
+        (
+            [nome] => Gosma Ocre
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:110
+        )
+
+    [672] => stdClass Object
+        (
+            [nome] => Mantícora
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:110
+        )
+
+    [673] => stdClass Object
+        (
+            [nome] => Kobode
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:114
+        )
+
+    [674] => stdClass Object
+        (
+            [nome] => Chuul
+            [nd] => 7
+            [tipo] => Construto
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:98
+        )
+
+    [675] => stdClass Object
+        (
+            [nome] => Súcubo
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:100
+        )
+
+    [676] => stdClass Object
+        (
+            [nome] => Baleia
+            [nd] => 7
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:115
+        )
+
+    [677] => stdClass Object
+        (
+            [nome] => Gigante Crocodilo
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:104
+        )
+
+    [678] => stdClass Object
+        (
+            [nome] => Jhumariel
+            [nd] => 10
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:101
+        )
+
+    [679] => stdClass Object
+        (
+            [nome] => Gigante Urso
+            [nd] => 10
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Reinos da Moreânia, pg:104
+        )
+
+    [680] => stdClass Object
+        (
+            [nome] => Flamante
+            [nd] => 16
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Reinos da Moreânia, pg:102
+        )
+
+    [681] => stdClass Object
+        (
+            [nome] => Águia
+            [nd] => 1/2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:115
+        )
+
+    [682] => stdClass Object
+        (
+            [nome] => Cascavel
+            [nd] => 1/2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:117
+        )
+
+    [683] => stdClass Object
+        (
+            [nome] => Texugo
+            [nd] => 1/2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:121
+        )
+
+    [684] => stdClass Object
+        (
+            [nome] => Falcão
+            [nd] => 1/3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:119
+        )
+
+    [685] => stdClass Object
+        (
+            [nome] => Gambá
+            [nd] => 1/3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Reinos da Moreânia, pg:119
+        )
+
+    [686] => stdClass Object
+        (
+            [nome] => Sprout
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Manual do Arcano, pg:121
+        )
+
+    [687] => stdClass Object
+        (
+            [nome] => Abelha de Fogo
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:115
+        )
+
+    [688] => stdClass Object
+        (
+            [nome] => Cobra Cromática
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:116
+        )
+
+    [689] => stdClass Object
+        (
+            [nome] => Esqueleto Arcano do Ar
+            [nd] => 4
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:118
+        )
+
+    [690] => stdClass Object
+        (
+            [nome] => Esqueleto Arcano do Fogo
+            [nd] => 4
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:118
+        )
+
+    [691] => stdClass Object
+        (
+            [nome] => Esqueleto Arcano da Eletricidade
+            [nd] => 4
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:118
+        )
+
+    [692] => stdClass Object
+        (
+            [nome] => Esqueleto Arcano do Gelo
+            [nd] => 4
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:118
+        )
+
+    [693] => stdClass Object
+        (
+            [nome] => Lobo-das-Neves
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:120
+        )
+
+    [694] => stdClass Object
+        (
+            [nome] => Esqueleto Arcano Maior do Ar
+            [nd] => 7
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:119
+        )
+
+    [695] => stdClass Object
+        (
+            [nome] => Esqueleto Arcano Maior da Eletricidade
+            [nd] => 7
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:119
+        )
+
+    [696] => stdClass Object
+        (
+            [nome] => Esqueleto Arcano Maior do Fogo
+            [nd] => 7
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:119
+        )
+
+    [697] => stdClass Object
+        (
+            [nome] => Esqueleto Arcano Maior do Gelo
+            [nd] => 7
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:120
+        )
+
+    [698] => stdClass Object
+        (
+            [nome] => Necro-Aranha
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Manual do Arcano, pg:120
+        )
+
+    [699] => stdClass Object
+        (
+            [nome] => Cromo Hidra
+            [nd] => 15
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Manual do Arcano, pg:117
+        )
+
+    [700] => stdClass Object
+        (
+            [nome] => Duende Menor
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:188
+        )
+
+    [701] => stdClass Object
+        (
+            [nome] => Guarda do Palácio
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Guia da Trilogia, pg:38
+        )
+
+    [702] => stdClass Object
+        (
+            [nome] => Soldado de Yuden
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Guia da Trilogia, pg:55
+        )
+
+    [703] => stdClass Object
+        (
+            [nome] => Hobgoblin do Gelo
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Guia da Trilogia, pg:69
+        )
+
+    [704] => stdClass Object
+        (
+            [nome] => Náiade
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:189
+        )
+
+    [705] => stdClass Object
+        (
+            [nome] => Gamo
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:191
+        )
+
+    [706] => stdClass Object
+        (
+            [nome] => Clérigo de Tenebra
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:38
+        )
+
+    [707] => stdClass Object
+        (
+            [nome] => Diabrete Negociante
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:72
+        )
+
+    [708] => stdClass Object
+        (
+            [nome] => Cyraxel (lefeu)
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:78
+        )
+
+    [709] => stdClass Object
+        (
+            [nome] => Duende Maior
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:188
+        )
+
+    [710] => stdClass Object
+        (
+            [nome] => Zyrrinaz (lefeu)
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:340
+        )
+
+    [711] => stdClass Object
+        (
+            [nome] => Zumbi Fantasmagórico
+            [nd] => 5
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:241
+        )
+
+    [712] => stdClass Object
+        (
+            [nome] => Armadura Guardiã
+            [nd] => 6
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:38
+        )
+
+    [713] => stdClass Object
+        (
+            [nome] => Rinoceronte Lanudo
+            [nd] => 6
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:70
+        )
+
+    [714] => stdClass Object
+        (
+            [nome] => Ninfa
+            [nd] => 6
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:189
+        )
+
+    [715] => stdClass Object
+        (
+            [nome] => Enxame Infernal
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:66
+        )
+
+    [716] => stdClass Object
+        (
+            [nome] => Súcubo
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:180
+        )
+
+    [717] => stdClass Object
+        (
+            [nome] => Eiradaan
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Guia da Trilogia, pg:190
+        )
+
+    [718] => stdClass Object
+        (
+            [nome] => Alma Acorrentada
+            [nd] => 7
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:294
+        )
+
+    [719] => stdClass Object
+        (
+            [nome] => Sombra Maior
+            [nd] => 8
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:39
+        )
+
+    [720] => stdClass Object
+        (
+            [nome] => Tendrículo da Tormenta
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:125
+        )
+
+    [721] => stdClass Object
+        (
+            [nome] => Velha Bruxa
+            [nd] => 9
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:190
+        )
+
+    [722] => stdClass Object
+        (
+            [nome] => Burodon (lefeu)
+            [nd] => 11
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:338
+        )
+
+    [723] => stdClass Object
+        (
+            [nome] => Unicórnio Negro
+            [nd] => 12
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:183
+        )
+
+    [724] => stdClass Object
+        (
+            [nome] => Dragão Branco Adulto
+            [nd] => 12
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Guia da Trilogia, pg:297
+        )
+
+    [725] => stdClass Object
+        (
+            [nome] => Demônio da Pólvora
+            [nd] => 12
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:312
+        )
+
+    [726] => stdClass Object
+        (
+            [nome] => Morgadrel (lefeu)
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:339
+        )
+
+    [727] => stdClass Object
+        (
+            [nome] => Tirano Ocular
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Guia da Trilogia, pg:30
+        )
+
+    [728] => stdClass Object
+        (
+            [nome] => Dragão Verde Variante
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Guia da Trilogia, pg:163
+        )
+
+    [729] => stdClass Object
+        (
+            [nome] => Eiradaan Nobre
+            [nd] => 13
+            [tipo] => Espírito
+            [tesouro] => 2
+            [fonte] => Guia da Trilogia, pg:191
+        )
+
+    [730] => stdClass Object
+        (
+            [nome] => Dragão Azul Adulto
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Guia da Trilogia, pg:280
+        )
+
+    [731] => stdClass Object
+        (
+            [nome] => Sarektril (lefeu)
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:340
+        )
+
+    [732] => stdClass Object
+        (
+            [nome] => Dragão Prateado
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Guia da Trilogia, pg:219
+        )
+
+    [733] => stdClass Object
+        (
+            [nome] => O albino
+            [nd] => 15
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:19
+        )
+
+    [734] => stdClass Object
+        (
+            [nome] => Esmagador Coletivo
+            [nd] => 15
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:164
+        )
+
+    [735] => stdClass Object
+        (
+            [nome] => Hipogrifo
+            [nd] => 15
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:186
+        )
+
+    [736] => stdClass Object
+        (
+            [nome] => Tarelvath (lefeu)
+            [nd] => 17
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Guia da Trilogia, pg:343
+        )
+
+    [737] => stdClass Object
+        (
+            [nome] => Vuroktril (lefeu)
+            [nd] => 20
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:341
+        )
+
+    [738] => stdClass Object
+        (
+            [nome] => Zadbblein  a Rainha dos Dragões Verdes
+            [nd] => 29
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:328
+        )
+
+    [739] => stdClass Object
+        (
+            [nome] => Mzzileyn  o Rei dos Dragões Negros
+            [nd] => 29
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:329
+        )
+
+    [740] => stdClass Object
+        (
+            [nome] => Benthos  Rei dos Dragões Marinhos
+            [nd] => 33
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:277
+        )
+
+    [741] => stdClass Object
+        (
+            [nome] => Hydora  o Rei dos Dragões Azuis
+            [nd] => 33
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:327
+        )
+
+    [742] => stdClass Object
+        (
+            [nome] => Sckhar  o Rei dos Dragões Vermelhos
+            [nd] => 37
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:220
+        )
+
+    [743] => stdClass Object
+        (
+            [nome] => Dragão da Tormenta
+            [nd] => 41
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Guia da Trilogia, pg:243
+        )
+
+    [744] => stdClass Object
+        (
+            [nome] => Milícia de Thartann
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Guia da Trilogia, pg:38
+        )
+
+    [745] => stdClass Object
+        (
+            [nome] => Sprite
+            [nd] => 1/2
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Guia da Trilogia, pg:187
+        )
+
+    [746] => stdClass Object
+        (
+            [nome] => Objeto Animado Pequeno
+            [nd] => 1
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:280
+        )
+
+    [747] => stdClass Object
+        (
+            [nome] => Elemental do Ar Pequeno
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:282
+        )
+
+    [748] => stdClass Object
+        (
+            [nome] => Elemental do Fogo Pequeno
+            [nd] => 1
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:282
+        )
+
+    [749] => stdClass Object
+        (
+            [nome] => Centauro
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:284
+        )
+
+    [750] => stdClass Object
+        (
+            [nome] => Bugbear
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:287
+        )
+
+    [751] => stdClass Object
+        (
+            [nome] => Nagah
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:288
+        )
+
+    [752] => stdClass Object
+        (
+            [nome] => Carniçal
+            [nd] => 1
+            [tipo] => Morto-vivo
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:298
+        )
+
+    [753] => stdClass Object
+        (
+            [nome] => Aranha Gigante
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:276
+        )
+
+    [754] => stdClass Object
+        (
+            [nome] => Objeto Animado Médio
+            [nd] => 2
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:280
+        )
+
+    [755] => stdClass Object
+        (
+            [nome] => Ogro
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:290
+        )
+
+    [756] => stdClass Object
+        (
+            [nome] => Lobo-das-Cavernas
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:278
+        )
+
+    [757] => stdClass Object
+        (
+            [nome] => Objeto Animado Grande
+            [nd] => 3
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:280
+        )
+
+    [758] => stdClass Object
+        (
+            [nome] => Soldado Mecânico
+            [nd] => 3
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:281
+        )
+
+    [759] => stdClass Object
+        (
+            [nome] => Elemental da Água Médio
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:282
+        )
+
+    [760] => stdClass Object
+        (
+            [nome] => Elemental da Terra Médio
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:282
+        )
+
+    [761] => stdClass Object
+        (
+            [nome] => Sombra
+            [nd] => 3
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:299
+        )
+
+    [762] => stdClass Object
+        (
+            [nome] => Guerreiro de Chifres
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:284
+        )
+
+    [763] => stdClass Object
+        (
+            [nome] => Gárgula
+            [nd] => 4
+            [tipo] => Construto
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:279
+        )
+
+    [764] => stdClass Object
+        (
+            [nome] => Dragão Filhote
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:293
+        )
+
+    [765] => stdClass Object
+        (
+            [nome] => Uktril
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:295
+        )
+
+    [766] => stdClass Object
+        (
+            [nome] => Otyugh
+            [nd] => 4
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:297
+        )
+
+    [767] => stdClass Object
+        (
+            [nome] => Urso-Coruja
+            [nd] => 5
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:279
+        )
+
+    [768] => stdClass Object
+        (
+            [nome] => Objeto Animado Enorme
+            [nd] => 5
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:281
+        )
+
+    [769] => stdClass Object
+        (
+            [nome] => Limo Sangrento
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:297
+        )
+
+    [770] => stdClass Object
+        (
+            [nome] => Troll
+            [nd] => 5
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:297
+        )
+
+    [771] => stdClass Object
+        (
+            [nome] => Homem Vegetal
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Manual Básico, pg:294
+        )
+
+    [772] => stdClass Object
+        (
+            [nome] => Geraktril
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:296
+        )
+
+    [773] => stdClass Object
+        (
+            [nome] => Objeto Animado Descomunal
+            [nd] => 7
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:281
+        )
+
+    [774] => stdClass Object
+        (
+            [nome] => Elemental do Ar Enorme
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:283
+        )
+
+    [775] => stdClass Object
+        (
+            [nome] => Elemental de Água Enorme
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:283
+        )
+
+    [776] => stdClass Object
+        (
+            [nome] => Elemental de Fogo Enorme
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:283
+        )
+
+    [777] => stdClass Object
+        (
+            [nome] => Elemtanl de Terra Enorme
+            [nd] => 7
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:284
+        )
+
+    [778] => stdClass Object
+        (
+            [nome] => Centauro Chefe
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:285
+        )
+
+    [779] => stdClass Object
+        (
+            [nome] => Nagah Cultista
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:289
+        )
+
+    [780] => stdClass Object
+        (
+            [nome] => Sprite Encantadora
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:290
+        )
+
+    [781] => stdClass Object
+        (
+            [nome] => Ente
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:294
+        )
+
+    [782] => stdClass Object
+        (
+            [nome] => Objeto Animado Colossal
+            [nd] => 10
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:281
+        )
+
+    [783] => stdClass Object
+        (
+            [nome] => Dragão Jovem
+            [nd] => 10
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Manual Básico, pg:293
+        )
+
+    [784] => stdClass Object
+        (
+            [nome] => Reishid
+            [nd] => 12
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:296
+        )
+
+    [785] => stdClass Object
+        (
+            [nome] => Golem de Ferro
+            [nd] => 13
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:279
+        )
+
+    [786] => stdClass Object
+        (
+            [nome] => Dragão Adulto
+            [nd] => 16
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Manual Básico, pg:293
+        )
+
+    [787] => stdClass Object
+        (
+            [nome] => Dragão Venerável
+            [nd] => 22
+            [tipo] => Monstro
+            [tesouro] => 3
+            [fonte] => Manual Básico, pg:293
+        )
+
+    [788] => stdClass Object
+        (
+            [nome] => Asa-Assassina
+            [nd] => 1/2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:277
+        )
+
+    [789] => stdClass Object
+        (
+            [nome] => Objeto Animado Mínimo
+            [nd] => 1/2
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:280
+        )
+
+    [790] => stdClass Object
+        (
+            [nome] => Elfo-do-Mar
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:285
+        )
+
+    [791] => stdClass Object
+        (
+            [nome] => Gnoll
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:286
+        )
+
+    [792] => stdClass Object
+        (
+            [nome] => Hobgoblin
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:287
+        )
+
+    [793] => stdClass Object
+        (
+            [nome] => Trog
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:291
+        )
+
+    [794] => stdClass Object
+        (
+            [nome] => Esqueleto
+            [nd] => 1/2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:299
+        )
+
+    [795] => stdClass Object
+        (
+            [nome] => Zumbi
+            [nd] => 1/2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:299
+        )
+
+    [796] => stdClass Object
+        (
+            [nome] => Rato Gigante
+            [nd] => 1/3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Manual Básico, pg:278
+        )
+
+    [797] => stdClass Object
+        (
+            [nome] => Goblin
+            [nd] => 1/3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:287
+        )
+
+    [798] => stdClass Object
+        (
+            [nome] => Kobold
+            [nd] => 1/3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:288
+        )
+
+    [799] => stdClass Object
+        (
+            [nome] => Sprite
+            [nd] => 1/3
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Manual Básico, pg:289
+        )
+
+    [800] => stdClass Object
+        (
+            [nome] => Vardak Trabalhador
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #114, pg:46
+        )
+
+    [801] => stdClass Object
+        (
+            [nome] => Anão Nativo
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #120, pg:115
+        )
+
+    [802] => stdClass Object
+        (
+            [nome] => Clã Cacador
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #130, pg:89
+        )
+
+    [803] => stdClass Object
+        (
+            [nome] => Mercenário de Portsmouth
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #138, pg:82
+        )
+
+    [804] => stdClass Object
+        (
+            [nome] => Guerreiro de Sala~o
+            [nd] => 1
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #138, pg:84
+        )
+
+    [805] => stdClass Object
+        (
+            [nome] => O carrasco
+            [nd] => 2
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #116, pg:106
+        )
+
+    [806] => stdClass Object
+        (
+            [nome] => Pirata
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #120, pg:113
+        )
+
+    [807] => stdClass Object
+        (
+            [nome] => Morcego da Selva
+            [nd] => 2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #120, pg:115
+        )
+
+    [808] => stdClass Object
+        (
+            [nome] => Soldado Purista
+            [nd] => 2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #130, pg:84
+        )
+
+    [809] => stdClass Object
+        (
+            [nome] => Noggs
+            [nd] => 3
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #116, pg:109
+        )
+
+    [810] => stdClass Object
+        (
+            [nome] => Vardak Abençoado
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #114, pg:46
+        )
+
+    [811] => stdClass Object
+        (
+            [nome] => Soldados de Khillian
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #121, pg:98
+        )
+
+    [812] => stdClass Object
+        (
+            [nome] => Bariki
+            [nd] => 3
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #130, pg:15
+        )
+
+    [813] => stdClass Object
+        (
+            [nome] => Cão-Leão
+            [nd] => 3
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #130, pg:16
+        )
+
+    [814] => stdClass Object
+        (
+            [nome] => Mercenário Veterano de Portsmouth
+            [nd] => 3
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #138, pg:83
+        )
+
+    [815] => stdClass Object
+        (
+            [nome] => Saci Sererê
+            [nd] => 3
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #136, pg:95
+        )
+
+    [816] => stdClass Object
+        (
+            [nome] => Golem de Magma
+            [nd] => 4
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #121, pg:99
+        )
+
+    [817] => stdClass Object
+        (
+            [nome] => Leão Meio-Elemental do Fogo
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #121, pg:101
+        )
+
+    [818] => stdClass Object
+        (
+            [nome] => Bisonte
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #130, pg:15
+        )
+
+    [819] => stdClass Object
+        (
+            [nome] => Kabuto
+            [nd] => 4
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #130, pg:18
+        )
+
+    [820] => stdClass Object
+        (
+            [nome] => Sargento-mo´r Purista
+            [nd] => 4
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #130, pg:85
+        )
+
+    [821] => stdClass Object
+        (
+            [nome] => Vassalo Abissal
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:93
+        )
+
+    [822] => stdClass Object
+        (
+            [nome] => Pech
+            [nd] => 4
+            [tipo] => Espírito
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #134, pg:73
+        )
+
+    [823] => stdClass Object
+        (
+            [nome] => Ogro das Sanguinárias
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 0.5
+            [fonte] => Dragão Brasil #116, pg:108
+        )
+
+    [824] => stdClass Object
+        (
+            [nome] => Mago Dracônico
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #121, pg:98
+        )
+
+    [825] => stdClass Object
+        (
+            [nome] => Soldado de Elite de Yuden
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #130, pg:85
+        )
+
+    [826] => stdClass Object
+        (
+            [nome] => Capela~o de Guerra
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #130, pg:88
+        )
+
+    [827] => stdClass Object
+        (
+            [nome] => Agente do Graath
+            [nd] => 5
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #138, pg:85
+        )
+
+    [828] => stdClass Object
+        (
+            [nome] => Saci Pererê
+            [nd] => 5
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #136, pg:97
+        )
+
+    [829] => stdClass Object
+        (
+            [nome] => Trico
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0.5
+            [fonte] => Dragão Brasil #116, pg:88
+        )
+
+    [830] => stdClass Object
+        (
+            [nome] => Água Viva Gigante
+            [nd] => 6
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #120, pg:113
+        )
+
+    [831] => stdClass Object
+        (
+            [nome] => Cavalaria Wyvern
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #121, pg:98
+        )
+
+    [832] => stdClass Object
+        (
+            [nome] => Infiltrador Yudeniano
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #130, pg:86
+        )
+
+    [833] => stdClass Object
+        (
+            [nome] => Wulver
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:33
+        )
+
+    [834] => stdClass Object
+        (
+            [nome] => Tobi-Kadachi
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:62
+        )
+
+    [835] => stdClass Object
+        (
+            [nome] => Aracner
+            [nd] => 6
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #134, pg:72
+        )
+
+    [836] => stdClass Object
+        (
+            [nome] => O Grinch
+            [nd] => 6
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #137, pg:112
+        )
+
+    [837] => stdClass Object
+        (
+            [nome] => Saci Taterê
+            [nd] => 6
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #136, pg:98
+        )
+
+    [838] => stdClass Object
+        (
+            [nome] => Estrangulador das Cavernas
+            [nd] => 7
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #120, pg:114
+        )
+
+    [839] => stdClass Object
+        (
+            [nome] => Capita~o-cavaleiro
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #130, pg:87
+        )
+
+    [840] => stdClass Object
+        (
+            [nome] => Chefe guerreiro
+            [nd] => 7
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #138, pg:84
+        )
+
+    [841] => stdClass Object
+        (
+            [nome] => Cavaleiro do Leopardo Negro
+            [nd] => 8
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #130, pg:89
+        )
+
+    [842] => stdClass Object
+        (
+            [nome] => Rancor
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #131, pg:112
+        )
+
+    [843] => stdClass Object
+        (
+            [nome] => Radobaan
+            [nd] => 8
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:63
+        )
+
+    [844] => stdClass Object
+        (
+            [nome] => Enxame de Vassalos
+            [nd] => 8
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:93
+        )
+
+    [845] => stdClass Object
+        (
+            [nome] => Mercador Onírico
+            [nd] => 9
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #116, pg:100
+        )
+
+    [846] => stdClass Object
+        (
+            [nome] => Tartaruga Dragão
+            [nd] => 9
+            [tipo] => Monstro
+            [tesouro] => 2
+            [fonte] => Dragão Brasil #119, pg:107
+        )
+
+    [847] => stdClass Object
+        (
+            [nome] => Defensor da Cidade
+            [nd] => 9
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #120, pg:114
+        )
+
+    [848] => stdClass Object
+        (
+            [nome] => O Primeiro Colosso
+            [nd] => 9
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #128, pg:108
+        )
+
+    [849] => stdClass Object
+        (
+            [nome] => Ancião Elemental
+            [nd] => 9
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:30
+        )
+
+    [850] => stdClass Object
+        (
+            [nome] => Polvo Gigante Zumbi
+            [nd] => 10
+            [tipo] => Morto-vivo
+            [tesouro] => 2
+            [fonte] => Dragão Brasil #120, pg:116
+        )
+
+    [851] => stdClass Object
+        (
+            [nome] => Dragão de Magma Guardião
+            [nd] => 10
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #120, pg:116
+        )
+
+    [852] => stdClass Object
+        (
+            [nome] => Appa
+            [nd] => 10
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #121, pg:82
+        )
+
+    [853] => stdClass Object
+        (
+            [nome] => O Segundo Colosso
+            [nd] => 10
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #128, pg:109
+        )
+
+    [854] => stdClass Object
+        (
+            [nome] => Legiana
+            [nd] => 10
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:64
+        )
+
+    [855] => stdClass Object
+        (
+            [nome] => Guardião de Fogo
+            [nd] => 11
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #121, pg:99
+        )
+
+    [856] => stdClass Object
+        (
+            [nome] => O Terceiro Colosso
+            [nd] => 11
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #128, pg:110
+        )
+
+    [857] => stdClass Object
+        (
+            [nome] => Devorador de Almas
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:32
+        )
+
+    [858] => stdClass Object
+        (
+            [nome] => Suserano Abissal
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 3
+            [fonte] => Dragão Brasil #133, pg:92
+        )
+
+    [859] => stdClass Object
+        (
+            [nome] => Sacy
+            [nd] => 11
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #136, pg:99
+        )
+
+    [860] => stdClass Object
+        (
+            [nome] => Sarlacc
+            [nd] => 12
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #131, pg:112
+        )
+
+    [861] => stdClass Object
+        (
+            [nome] => Viajante
+            [nd] => 12
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:33
+        )
+
+    [862] => stdClass Object
+        (
+            [nome] => Uragaan
+            [nd] => 12
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:64
+        )
+
+    [863] => stdClass Object
+        (
+            [nome] => Shlurp
+            [nd] => 13
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #113, pg:26
+        )
+
+    [864] => stdClass Object
+        (
+            [nome] => Anemoreia
+            [nd] => 14
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #118, pg:75
+        )
+
+    [865] => stdClass Object
+        (
+            [nome] => Bazelgeuse
+            [nd] => 14
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:65
+        )
+
+    [866] => stdClass Object
+        (
+            [nome] => Colosso Yudeniano
+            [nd] => 15
+            [tipo] => Construto
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #130, pg:89
+        )
+
+    [867] => stdClass Object
+        (
+            [nome] => Megatubarão
+            [nd] => 15
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #135, pg:97
+        )
+
+    [868] => stdClass Object
+        (
+            [nome] => Drogon
+            [nd] => 16
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #124, pg:85
+        )
+
+    [869] => stdClass Object
+        (
+            [nome] => Kirin
+            [nd] => 17
+            [tipo] => Espírito
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:66
+        )
+
+    [870] => stdClass Object
+        (
+            [nome] => Predador (alien)
+            [nd] => 17
+            [tipo] => Humanóide
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #135, pg:98
+        )
+
+    [871] => stdClass Object
+        (
+            [nome] => Dragão-de-Aço
+            [nd] => 18
+            [tipo] => Construto
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #115, pg:126
+        )
+
+    [872] => stdClass Object
+        (
+            [nome] => Mimicasa
+            [nd] => 18
+            [tipo] => Construto
+            [tesouro] => 3
+            [fonte] => Dragão Brasil #134, pg:87
+        )
+
+    [873] => stdClass Object
+        (
+            [nome] => Kushala Daora
+            [nd] => 20
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:67
+        )
+
+    [874] => stdClass Object
+        (
+            [nome] => Teostra
+            [nd] => 20
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:68
+        )
+
+    [875] => stdClass Object
+        (
+            [nome] => Vaal Hazak
+            [nd] => 20
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:69
+        )
+
+    [876] => stdClass Object
+        (
+            [nome] => Nergigante
+            [nd] => 22
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:70
+        )
+
+    [877] => stdClass Object
+        (
+            [nome] => Xeno’jiiva
+            [nd] => 24
+            [tipo] => Monstro
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #133, pg:70
+        )
+
+    [878] => stdClass Object
+        (
+            [nome] => Godzilla
+            [nd] => 60
+            [tipo] => Monstro
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #126, pg:80
+        )
+
+    [879] => stdClass Object
+        (
+            [nome] => Anão Esqueleto
+            [nd] => 1/2
+            [tipo] => Morto-vivo
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #120, pg:113
+        )
+
+    [880] => stdClass Object
+        (
+            [nome] => Caranguejo Gigante
+            [nd] => 1/2
+            [tipo] => Animal
+            [tesouro] => 0
+            [fonte] => Dragão Brasil #120, pg:113
+        )
+
+    [881] => stdClass Object
+        (
+            [nome] => Recruta Purista
+            [nd] => 1/2
+            [tipo] => Humanóide
+            [tesouro] => 1
+            [fonte] => Dragão Brasil #130, pg:83
+        )
+
+)

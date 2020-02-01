@@ -1,0 +1,1166 @@
+SimpleXMLElement Object
+(
+    [@attributes] => Array
+        (
+            [version] => 2.0
+        )
+
+    [channel] => SimpleXMLElement Object
+        (
+            [title] => Podcast da Sociedade Brasileira de Nefrologia
+            [link] => https://www.deviante.com.br/podcasts/sociedade-brasileira-de-nefrologia/
+            [description] => A casa do Scicast!
+            [lastBuildDate] => Fri, 17 Jan 2020 21:20:07 +0000
+            [language] => pt-BR
+            [comment] => SimpleXMLElement Object
+                (
+                )
+
+            [managingEditor] => contato@scicast.com.br (Portal Deviante)
+            [copyright] => Copyright © 2018 Deviante
+            [image] => SimpleXMLElement Object
+                (
+                    [title] => Podcast da Sociedade Brasileira de Nefrologia
+                    [url] => http://deviante.com.br/wp-content/uploads/2016/01/deviante-itunes.jpg
+                    [link] => https://www.deviante.com.br/podcasts/sociedade-brasileira-de-nefrologia/
+                )
+
+            [item] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                            [title] => Intoxicação por Dietilenoglicol e Insuficiência renal aguda (SBN #20)
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-20/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-20/#respond
+                            [pubDate] => Fri, 17 Jan 2020 20:32:57 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [7] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => https://www.deviante.com.br/?p=36799
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN20.mp3
+                                            [length] => 32653082
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                            [title] => Hipertensão Arterial – parte II (SBN #19)
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-19/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-19/#respond
+                            [pubDate] => Wed, 18 Dec 2019 18:39:34 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => https://www.deviante.com.br/?p=36273
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN19.mp3
+                                            [length] => 24495672
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [2] => SimpleXMLElement Object
+                        (
+                            [title] => Hipertensão Arterial – parte I (SBN #18)
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-18/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-18/#respond
+                            [pubDate] => Sat, 30 Nov 2019 19:39:23 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => https://www.deviante.com.br/?p=36009
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN18.mp3
+                                            [length] => 27852690
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => SimpleXMLElement Object
+                        (
+                            [title] => Hepatites na Hemodiálise (SBN #17)
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-17/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-17/#respond
+                            [pubDate] => Fri, 11 Oct 2019 19:10:59 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => https://www.deviante.com.br/?p=35110
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN17.mp3
+                                            [length] => 34800233
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [4] => SimpleXMLElement Object
+                        (
+                            [title] => Doenças raras e SHUa (SBN #16)
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-16/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-16/#respond
+                            [pubDate] => Fri, 30 Aug 2019 18:00:10 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => https://www.deviante.com.br/?p=34336
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN16.mp3
+                                            [length] => 48635889
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [5] => SimpleXMLElement Object
+                        (
+                            [title] => Cuidados Paliativos (SBN #15)
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-15/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-15/#respond
+                            [pubDate] => Tue, 06 Aug 2019 13:00:41 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => https://www.deviante.com.br/?p=33872
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN15_Cuidados_Paliativos.mp3
+                                            [length] => 31060864
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [6] => SimpleXMLElement Object
+                        (
+                            [title] => A Dieta no Paciente Renal Crônico (SBN #14)
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-14/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-14/#respond
+                            [pubDate] => Mon, 01 Jul 2019 12:00:33 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [7] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [8] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => https://www.deviante.com.br/?p=33178
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN14.mp3
+                                            [length] => 37730114
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [7] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #13: Nefropediatria 2
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-13/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-13/#respond
+                            [pubDate] => Fri, 31 May 2019 14:00:32 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [7] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [8] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [9] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [10] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [11] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [12] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => https://www.deviante.com.br/?p=32574
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN13_Nefropediatria2.mp3
+                                            [length] => 35091170
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [8] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #12: Dia Mundial do Rim 2019
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-12/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-12/#respond
+                            [pubDate] => Tue, 12 Mar 2019 15:30:34 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [7] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [8] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [9] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [10] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [11] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [12] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=30906
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN12.mp3
+                                            [length] => 32339637
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [9] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #11: Hipertensão na Gravidez
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-11/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-11/#respond
+                            [pubDate] => Thu, 31 Jan 2019 20:30:31 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [7] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [8] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [9] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [10] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [11] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [12] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=30029
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN11.mp3
+                                            [length] => 25279161
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [10] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #10: Hemodiálise
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-10/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-10/#respond
+                            [pubDate] => Sat, 01 Dec 2018 08:00:19 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [7] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=28765
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN10.mp3
+                                            [length] => 35562103
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [11] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #09: Transplante Renal
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-09/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-09/#respond
+                            [pubDate] => Sat, 27 Oct 2018 20:00:39 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [7] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [8] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=28014
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN09_Transplante_Renal.mp3
+                                            [length] => 35273986
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [12] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #08: Segurança do Paciente Nefrológico
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-08/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-08/#respond
+                            [pubDate] => Fri, 31 Aug 2018 14:20:25 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=26871
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN08.mp3
+                                            [length] => 19962331
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [13] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #07: Lúpus e a Nefrologia
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-07/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-07/#respond
+                            [pubDate] => Wed, 06 Jun 2018 13:00:04 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=24870
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN07_Lupus.mp3
+                                            [length] => 21713059
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [14] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #06: Esclarecimento sobre Doença Renal e a novela O Outro Lado do Paraíso
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-06/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-06/#respond
+                            [pubDate] => Mon, 02 Apr 2018 14:00:05 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=23249
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN06.mp3
+                                            [length] => 15608942
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [15] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #05: Diálise Peritoneal
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-05-dialise-peritoneal/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-05-dialise-peritoneal/#respond
+                            [pubDate] => Mon, 19 Mar 2018 13:00:57 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [3] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [4] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [5] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [6] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [7] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=22913
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN05.mp3
+                                            [length] => 32818878
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [16] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #04: Nefropediatria
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-04/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-04/#respond
+                            [pubDate] => Thu, 22 Feb 2018 19:00:24 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=22200
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN04.mp3
+                                            [length] => 3
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [17] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #03: Vacinas e a Nefrologia
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-03/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-03/#comments
+                            [pubDate] => Thu, 04 Jan 2018 17:00:05 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=20409
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN03_Vacinas_E_A_Nefrologia.mp3
+                                            [length] => 25869002
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                    [18] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #02: Nefrologia e Genética 2
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-01-nefrologia-e-genetica-2/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-01-nefrologia-e-genetica-2/#respond
+                            [pubDate] => Thu, 30 Nov 2017 02:01:40 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=19667
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN02.m4a
+                                            [length] => 10415599
+                                            [type] => audio/x-m4a
+                                        )
+
+                                )
+
+                        )
+
+                    [19] => SimpleXMLElement Object
+                        (
+                            [title] => SBN #01: Nefrologia e Genética
+                            [link] => https://www.deviante.com.br/podcasts/scicast/sbn-01-nefrologia-e-genetica/
+                            [comments] => https://www.deviante.com.br/podcasts/scicast/sbn-01-nefrologia-e-genetica/#comments
+                            [pubDate] => Thu, 26 Oct 2017 04:00:10 +0000
+                            [category] => Array
+                                (
+                                    [0] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [1] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                    [2] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [guid] => http://www.deviante.com.br/?p=19040
+                            [description] => SimpleXMLElement Object
+                                (
+                                )
+
+                            [enclosure] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [url] => http://media.blubrry.com/deviante/content.blubrry.com/deviante/SBN01.mp3
+                                            [length] => 31281507
+                                            [type] => audio/mpeg
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
